@@ -12,7 +12,7 @@
 This is a series of lists related to [CyberDecks](https://www.reddit.com/r/cyberdeck), including decks themselves, components, software, and other resources.  This page is meant to be a resource for those who are building their own decks.
 <br>
 <br>
-Conforms to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
+Based on the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
