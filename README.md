@@ -9,9 +9,9 @@
 
 > Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  
 
-This list is a collection of tools, projects, components and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md)
+This list is a collection of tools, projects, components and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
-Contributions *very welcome* but first see [Contributing](#contributing)
+Contributions *very welcome* but first see [Contributing](#contributing).
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
