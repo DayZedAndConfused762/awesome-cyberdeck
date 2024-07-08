@@ -35,7 +35,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 Text Description
 
- - [Link](link)
+ - [CyberDecks](doc/cyberdecks.md)
 
 <!-- ------------------------------ CyberDecks End ------------------------------ -->
 
@@ -46,7 +46,7 @@ Text Description
 
 Text Description
 
- - [Link](link)
+ - [Components](doc/components.md)
 
 <!-- ------------------------------ Components End ------------------------------ -->
 
@@ -57,7 +57,7 @@ Text Description
 
 Text Description
 
- - [Link](link)
+ - [Operating Systems](doc/operating-systems.md)
 
 <!-- ------------------------------ Operating Systems End ------------------------------ -->
 
@@ -68,7 +68,7 @@ Text Description
 
 Text Description
 
- - [Link](link)
+ - [Software](doc/software.md)
 
 <!-- ------------------------------ Software End ------------------------------ -->
 
@@ -79,7 +79,8 @@ Text Description
 
 Text Description
 
- - [Link](link)
+ - [Contribution Guidelines](CONTRIBUTING.md)
+ - [Contributors](CONTRIBUTORS.md)
 
 <!-- ------------------------------ Contributing End ------------------------------ -->
 
