@@ -14,7 +14,7 @@ This is a series of lists related to [CyberDecks](https://www.reddit.com/r/cyber
 <br>
 Based on the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
-Contributions *very welcome* but first see [Contributing](#contributing).
+Contributions *very welcome* but first please see [Contributing](#contributing).
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
