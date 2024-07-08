@@ -20,11 +20,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Contents
 
-- [Models](#models)
-- [OS Images](#os-images)
-- [Tools](#tools)
-- [Projects](#projects)
-- [Resources](#resources)
+- [Overview](#overview)
 
 <!-- ------------------------------ Contents End ------------------------------ -->
 
@@ -36,16 +32,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 Overview text goes here
 
 <!-- ------------------------------ Overview End ------------------------------ -->
-
-
-<!-- ------------------------------ Files Start ------------------------------ -->
-
-## Files
-
-* [File Name](template-index.md) Description of file
-* [File Name](template-index.md) Description of file
-
-<!-- ------------------------------ Files End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
