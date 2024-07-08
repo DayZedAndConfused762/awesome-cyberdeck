@@ -1,38 +1,14 @@
-<!-- ======================================== template-index.md Start ======================================== -->
+<!-- ======================================== CONTRIBUTING.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Intro Header
+# Contribution Guidelines
 
-<!-- ------------------------------ Intro End ------------------------------ -->
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
-
-<!-- ------------------------------ Overview Start ------------------------------ -->
-
-## Overview Header
-
-Overview text goes here
-
-<!-- ------------------------------ Overview End ------------------------------ -->
+I am still learning how to use GitHub, so for now the best way to add to the list is to submit your addition and an issue, in the discussions area, or email [mailto:DayZedAndConfused@gmail.com](DayZedAndConfused@gmail.com).
 
 
-<!-- ------------------------------ Files Start ------------------------------ -->
 
-## Files
-
-* [File Name](template-index.md) Description of file
-* [File Name](template-index.md) Description of file
-
-<!-- ------------------------------ Files End ------------------------------ -->
-
-
-<!-- ------------------------------ Outro Start ------------------------------ -->
-
-Outro text goes here
-
-<!-- ------------------------------ Outro End ------------------------------ -->
-
-
-<!-- ======================================== template-index.md Start ======================================== -->
-
+<!-- ======================================== CONTRIBUTING.md Start ======================================== -->
