@@ -85,7 +85,7 @@ Text Description
 
 <!-- ------------------------------ Contributing Start ------------------------------ -->
 
-## Contrbuting
+## Contributing
 
 Text Description
 
