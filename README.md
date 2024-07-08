@@ -7,7 +7,7 @@
 
 <img src="img/placeholder-150px.svg" alt="CyberDeck Logo" align="left" style="margin-right: 25px" height=150>
 
-> Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  
+> A CyberDeck is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. Some of the first appearances of CyberDecks were in the Sprawl Trilogy by William Gibson in the early 1980s.
 
 This list is a collection of tools, projects, components and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
