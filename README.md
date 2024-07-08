@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="img/placeholder-150px.svg" alt="CyberDeck Logo" align="left" style="margin-right: 25px" style="margin-bottom: 25px" height=150>
+<img src="img/placeholder-150px.svg" alt="CyberDeck Logo" align="left" style="margin-right: 25px, margin-bottom: 25px" height=150>
 
 > A [CyberDeck](https://www.reddit.com/r/cyberdeck) is a personal mobile computer found in many cyberpunk novels and video games that is used by hackers or "Deckers" to temporarily connect their mind or "jack in" to cyberspace. Some of the first appearances of CyberDecks were in the Sprawl Trilogy by William Gibson in the early 1980s.
 
