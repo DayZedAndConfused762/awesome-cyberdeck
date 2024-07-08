@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="img/placeholder-150px.svg" alt="CyberDeck Logo" align="left" style="margin-right: 25px" height=150></a>
+<img src="img/placeholder-150px.svg" alt="CyberDeck Logo" align="left" style="margin-right: 25px" height=150>
 
 > Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  Text describing a CyberDeck.  
 
