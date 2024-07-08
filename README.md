@@ -20,7 +20,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Contents
 
-- [Overview](#overview)
 - [CyberDecks](#cyberdecks)
 - [Components](#components)
 - [Operating Systems](#operating-systems)
@@ -28,15 +27,6 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 - [Contributing](#contributing)
 
 <!-- ------------------------------ Contents End ------------------------------ -->
-
-
-<!-- ------------------------------ Overview Start ------------------------------ -->
-
-## Overview
-
-Overview text goes here
-
-<!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ CyberDecks Start ------------------------------ -->
