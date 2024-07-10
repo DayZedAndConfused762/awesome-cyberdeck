@@ -19,19 +19,6 @@ Contributions *very welcome* but first please see [Contributing](#contributing).
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Contents Start ------------------------------ -->
-
-## Contents
-
-- [CyberDecks](#cyberdecks)
-- [Components](#components)
-- [Operating Systems](#operating-systems)
-- [Software](#software)
-- [Contributing](#contributing)
-
-<!-- ------------------------------ Contents End ------------------------------ -->
-
-
 <!-- ------------------------------ CyberDecks Start ------------------------------ -->
 
 ## CyberDecks
