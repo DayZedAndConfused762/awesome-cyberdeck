@@ -59,7 +59,7 @@ This is a list of software that may be useful for CyberDecks.
 ## FM Radio Transmitting
 
 - [PiFM (RM-Hull)](https://github.com/rm-hull/pifm?tab=readme-ov-file): Turning the Raspberry Pi Into an FM Transmitter.
-- [PiFmAdv] (miegl)(https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
+- [PiFmAdv (miegl)](https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
   - [PiFM GTK (MundeepL)](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
 
 <!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
