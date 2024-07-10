@@ -1,38 +1,26 @@
-<!-- ======================================== template-index.md Start ======================================== -->
+<!-- ======================================== cyberdecks.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Intro Header
+# Awesome CyberDeck - CyberDecks
+
+This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Overview Start ------------------------------ -->
+<!-- ------------------------------ Gun Case Start ------------------------------ -->
 
-## Overview Header
+## Gun Case CyberDecks
+- [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
 
-Overview text goes here
-
-<!-- ------------------------------ Overview End ------------------------------ -->
-
-
-<!-- ------------------------------ Files Start ------------------------------ -->
-
-## Files
-
-* [File Name](template-index.md) Description of file
-* [File Name](template-index.md) Description of file
-
-<!-- ------------------------------ Files End ------------------------------ -->
+<!-- ------------------------------ Gun Case End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
-
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== template-index.md Start ======================================== -->
-
+<!-- ======================================== cyberdecks.md End ======================================== -->
