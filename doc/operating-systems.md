@@ -3,13 +3,14 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Intro Header
+# Awesome CyberDeck - Operating Systems
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
+A colleciton of Operating Systems for use on CyberDecks.
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
