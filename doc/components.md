@@ -1,11 +1,11 @@
-<!-- ======================================== template-index.md Start ======================================== -->
+<!-- ======================================== components.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Intro
+# Template- Components List
 
-Intro Text Goes Here
+This is a template for list of components.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -14,25 +14,46 @@ Intro Text Goes Here
 
 ## Contents
 
+- [Platforms](#platforms)
+
+
 <!-- ------------------------------ Overview End ------------------------------ -->
 
 
-<!-- ------------------------------ Files Start ------------------------------ -->
+<!-- ------------------------------ Section Start ------------------------------ -->
 
-## Files
+## Section Name
 
-* [File Name](template-index.md) Description of file
-* [File Name](template-index.md) Description of file
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
-<!-- ------------------------------ Files End ------------------------------ -->
+### Section Name
+Item|URL|Price
+---|---|---
+Item Name | https://www.amazon.com/ | $123,456,789.99
+Item Name | https://www.amazon.com/ | $123,456,789.99
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
+
+### Subsection Name
+
+#### *Subsubsection Name*
+Item|URL|Price
+---|---|---
+Item Name | https://www.amazon.com/ | $123,456,789.99
+Item Name | https://www.amazon.com/ | $123,456,789.99
+
+<!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
+<!-- ------------------------------Section End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
-Outro text goes here
+Please note that the prices were accurate at the time of purchase/entry to this list, and may have changed.
 
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== template-index.md Start ======================================== -->
-
+<!-- ======================================== components.md End ======================================== -->
