@@ -17,11 +17,10 @@
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 <br>
-
-<br />
-This is a series of lists related to [CyberDecks](https://www.reddit.com/r/cyberdeck), including decks themselves, components, software, and other resources.  This page is meant to be a resource for those who are building their own decks.  The list originaly started as part of the build process of my CyberDeck, the [Y.A.A.C](https://github.com/DayZedAndConfused762/Y.A.A.C), and I figure why keep the research to myself?
 <br>
-<br />
+
+This is a series of lists related to [CyberDecks](https://www.reddit.com/r/cyberdeck), including decks themselves, components, software, and other resources.  This page is meant to be a resource for those who are building their own decks.  The list originaly started as part of the build process of my CyberDeck, the [Y.A.A.C](https://github.com/DayZedAndConfused762/Y.A.A.C), and I figure why keep the research to myself?
+
 Based on the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).
 
 Contributions *very welcome* but first please see [Contributing](#contributing).
