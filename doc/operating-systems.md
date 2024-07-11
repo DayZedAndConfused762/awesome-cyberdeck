@@ -13,9 +13,7 @@
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Operating Systems Start ++++++++++++++++++++ -->
-
-## Operating Systems
+<!-- ------------------------------ Operating Systems Start ------------------------------ -->
 
 ### Communication
 - [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast): Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system.
@@ -60,7 +58,7 @@
 - [FreeBSD/ARM](https://wiki.freebsd.org/arm/Raspberry%20Pi): FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms.
 - [FreedomBox](https://www.freedombox.org/): FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.
 
-<!-- ++++++++++++++++++++ Operating Systems End ++++++++++++++++++++ -->
+<!-- ------------------------------ Operating Systems End ------------------------------ -->
 
 
 
