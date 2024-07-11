@@ -93,6 +93,7 @@
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi): Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox.
 - [Kali linux](https://www.kali.org): Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 - [motionEyeOS](https://github.com/motioneye-project/motioneyeos): A Linux distribution that turns your single board computer into a video surveillance system.
+- [ParrotOS](https://parrotsec.org/docs/installation/raspberrypi/): Parrot Security provides a huge arsenal of tools, utilities and libraries that IT and security professionals can use to test and assess the security of their assets in a reliable, compliant and reproducible way.
 
 <!-- ++++++++++++++++++++ Security End ++++++++++++++++++++ -->
 
