@@ -14,7 +14,8 @@ This is a template for list of components.
 
 ## Contents
 
-- [Platforms](#platforms)
+- [Section Name](#Section-Name)
+  - [Subsection Name](#Subsection-Name)
 
 
 <!-- ------------------------------ Overview End ------------------------------ -->
