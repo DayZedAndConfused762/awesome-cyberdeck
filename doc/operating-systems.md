@@ -18,7 +18,7 @@
 
 <!-- ++++++++++++++++++++ Communications Start ++++++++++++++++++++ -->
 
-### Communications
+## Communications
 
 - [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast): Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system.
 
@@ -26,7 +26,7 @@
 
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
-### Data
+## Data
 
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy): PirateBox is an anonymous offline mobile file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.
 
@@ -34,7 +34,7 @@
 
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
-### Gaming
+## Gaming
 
 - [Lakka Linux](https://lakka.tv/): Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 - [Recalbox](https://www.recalbox.com/download/stable/rpi/rpi4_64/):  Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood!
@@ -44,7 +44,7 @@
 
 <!-- ++++++++++++++++++++ General Use Start ++++++++++++++++++++ -->
 
-### General Use
+## General Use
 
 - [Arch Linux ARM](https://archlinuxarm.org/): Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple.
 - [DietPi](https://github.com/Fourdee/DietPi): DietPi is an extremely lightweight Debian-based OS. It is highly optimised for minimal CPU and RAM resource usage, ensuring your SBC always runs at its maximum potential.
@@ -59,7 +59,7 @@
 
 <!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
 
-### Media
+## Media
 
 - [LibreELEC](https://libreelec.tv/): Just enough OS for KODI.
 - [OSMC](https://osmc.tv/): OSMC is a free and open source media center built for the people, by the people.
@@ -69,7 +69,7 @@
 
 <!-- ++++++++++++++++++++ Misc Start ++++++++++++++++++++ -->
 
-### Misc
+## Misc
 
 - [BerryBoot v2.0](https://www.berryterminal.com/doku.php/berryboot): Berryboot is a simple boot selection screen for ARM computers like the Raspberry Pi, that allows you to put multiple Linux distributions on a single SD card.
 - [chilipie-kiosk](https://github.com/jareware/chilipie-kiosk): Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
@@ -80,7 +80,7 @@
 
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
-### SDR
+## SDR
 
 - [DragonOS_Pi64](https://sourceforge.net/projects/dragonos-pi64/): SDR Focused Distribution for the Raspberry Pi.
 
@@ -88,7 +88,7 @@
 
 <!-- ++++++++++++++++++++ Security Start ++++++++++++++++++++ -->
 
-### Security
+## Security
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi): Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and Busybox.
 - [Kali linux](https://www.kali.org): Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
@@ -98,7 +98,7 @@
 
 <!-- ++++++++++++++++++++ Server Start ++++++++++++++++++++ -->
 
-### Server
+## Server
 
 - [FreeBSD/ARM](https://wiki.freebsd.org/arm/Raspberry%20Pi): FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms.
 - [FreedomBox](https://www.freedombox.org/): FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.
