@@ -1,33 +1,48 @@
-<!-- ======================================== template-lists.md Start ======================================== -->
+<!-- ======================================== template-list.md Start ======================================== -->
 
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
 # Template - Lists
 
-This is a template for a lists.
+This is template for lists.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
+
+
+<!-- ------------------------------ Overview End ------------------------------ -->
+
+## Contents:
+
+- [Section Name](#Section-Name)
+  - [Subsection Name](#Subsection-name)
+
+<!-- ------------------------------ Overview End ------------------------------ -->
 
 
 <!-- ------------------------------ Section Start ------------------------------ -->
 
 ## Section Name
-- [Link Name](https://www.reddit.com/r/cyberdeck/): Link Description
+* [Link](https://www.google.com/): Link Description
+  - [Sublink](https://www.google.com/): Sublink Description
 
 <!-- ++++++++++++++++++++ Subsection Start ++++++++++++++++++++ -->
 
 ### Subsection Name
-- [Link Name](https://www.reddit.com/r/cyberdeck/): Link Description
+* [Link](https://www.google.com/): Link Description
+  - [Sublink](https://www.google.com/): Sublink Description
 
 <!-- ++++++++++++++++++++ Subsection End ++++++++++++++++++++ -->
+
 
 <!-- ------------------------------ Section End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
 
+Outro Text Goes Here
+
 <!-- ------------------------------ Outro End ------------------------------ -->
 
 
-<!-- ======================================== template-lists.md End ======================================== -->
+<!-- ======================================== template-list.md End ======================================== -->
