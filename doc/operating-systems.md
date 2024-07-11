@@ -26,7 +26,7 @@
 ### Gaming
 - [Lakka Linux](https://lakka.tv/): Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 - [Recalbox](https://www.recalbox.com/download/stable/rpi/rpi4_64/):  Recalbox is The Ultimate Retrogaming Console that allows you to replay all the games, consoles and computers of your childhood!
-- [RetroPie](https://retropie.org.uk/):  RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
+- [RetroPie](https://retropie.org.uk/):  RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. <img src="../img/icons/kisspng-raspberry-pi-clip-art-sugar-logo-computer-icons-5bf78320c77f09.4425010015429476168171.jpg">
 
 ### General Use
 - [Arch Linux ARM](https://archlinuxarm.org/): Arch Linux for ARM processors, a lightweight and flexible Linux® distribution that tries to Keep It Simple.
