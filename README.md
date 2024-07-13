@@ -47,6 +47,7 @@ Contributions *very welcome* but first please see [Contributing](#contributing).
 
  - [Contribution Guidelines](CONTRIBUTING.md)
  - [Contributors](CONTRIBUTORS.md)
+ - [To Do List](doc/todo.md)
 
 <!-- ------------------------------ Contributing End ------------------------------ -->
 
