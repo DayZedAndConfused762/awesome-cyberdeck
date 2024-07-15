@@ -34,6 +34,7 @@ Contributions *very welcome* but first please see [Contributing](#contributing).
 
  - [CyberDecks](doc/cyberdecks.md)
  - [Components](doc/components.md)
+ - [Guides](doc/guides.md)
  - [Operating Systems](doc/operating-systems.md)
  - [Software](doc/software.md)
  - [Web-based Tools & Utilities](doc/webtools.md)
