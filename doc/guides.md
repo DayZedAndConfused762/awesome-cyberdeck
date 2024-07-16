@@ -192,7 +192,7 @@ This is a list of guides and helpful information.
 
 - [Build Your Own Off-Grid Internet with Raspberry Pi!](https://www.youtube.com/watch?v=Hp4hLpDFVyg): 
 - [Build an Off Grid Wikipedia with #RaspberryPi](https://www.youtube.com/watch?v=R63x2TXm0s8): 
-- [*Making a RACHEL Module](https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf): 
+- [Making a RACHEL Module](https://ftp.worldpossible.org/rachel_plus/tutorials/making_a_rachel_content_module.pdf): 
 - [RACHEL Module information](https://community.worldpossible.org/): 
 
 <!-- ------------------------------ Offline End ------------------------------ -->
