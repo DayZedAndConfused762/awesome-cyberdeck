@@ -22,7 +22,7 @@ This is a template for list of components.
   - [HDMI](#HDMI)
   - [USB A to A](#USB-A-to-A)
   - [USB C to A](#USB-C-to-A)
-  - [USB C ot C](#USB-C-to-C)
+  - [USB C to C](#USB-C-to-C)
   - [USB C Extention](#USB-C-Extention)
   - [USB C Splitter](#USB-C-Splitter)
   - [USB Micro](#USB-Micro)
