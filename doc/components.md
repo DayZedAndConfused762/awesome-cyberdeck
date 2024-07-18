@@ -3,9 +3,9 @@
 
 <!-- ------------------------------ Intro Start ------------------------------ -->
 
-# Template- Components List
+# Awesome CyberDeck - Components
 
-This is a template for list of components.
+This is a list of components for CyberDecks.
 
 <!-- ------------------------------ Intro End ------------------------------ -->
 
@@ -13,7 +13,7 @@ This is a template for list of components.
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 ## Contents
-- [Cables and Adapters](#cables-and-adapters)
+- [Cables and Adapters](#Cables-and-Adapters)
   - [Adpters](#Adapters)
   - [DC](#DC)
   - [Dust Covers](#Dust-Covers)
@@ -24,7 +24,6 @@ This is a template for list of components.
   - [USB C to A](#USB-C-to-A)
   - [USB C to C](#USB-C-to-C)
   - [USB C Extention](#USB-C-Extention)
-  - [USB C Splitter](#USB-C-Splitter)
   - [USB Micro](#USB-Micro)
 - [Cases](#Cases)
 - [Cooling](#Cooling)
@@ -117,10 +116,6 @@ Item|URL|Price
 CLEEFUN USB C Extension Cable 1ft | https://www.amazon.com/gp/product/B0C9STSC2B/ | $6.99
 USB C Extension Cable(2Pack,0.4Ft) | https://www.amazon.com/gp/product/B0C9JMH9VT/ | $6.99
 
-### *USB C Splitter*
-Item|URL|Price
----|---|---
-
 ### *USB Micro*
 Item|URL|Price
 ---|---|---
@@ -161,8 +156,8 @@ Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23
 ## Core Compute
 Item|URL|Price
 ---|---|---
-Raspberry Pi 3 Model B+ Board (3B+) | https://www.amazon.com/Raspberry-Pi-Model-Board-Plus/dp/B0BNJPL4MW/ | $44.41
-Raspberry Pi 3 Model B Board | https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8/ | $44.49
+Raspberry Pi 3 Model B+ Board (3B+) | Previously Owned | $35.00
+Raspberry Pi 3 Model B Board | Previously Owned | $35.00
 Raspberry Pi 4 Computer Model B 8GB | https://www.amazon.com/gp/product/B0899VXM8F/ | $75.00
 Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www.amazon.com/dp/B09LCKL6D1 | $65.99
 
@@ -227,6 +222,7 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 ## Organization and Labeling
 Item|URL|Price
 ---|---|---
+Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 30 Pieces Cable Labels Multi-Color Wire Labels | https://www.amazon.com/gp/product/B0CMJ8K1L4/ | $4.46
 
 <!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
@@ -316,10 +312,15 @@ Fiskars 12" x 18" Double-Sided Rotary Cutting Mat, Gray| https://www.walmart.com
 Fiskars® Standard #11 Blades, 5ct | https://www.michaels.com/product/fiskars-standard-11-blades-5ct-10608964 | $4.99
 Fiskars® Softgrip® Detail Knife | https://www.michaels.com/product/fiskars-softgrip-detail-knife-10450829 | $6.99
 STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $27.99
+Utility Knife | no link/in store (Harbor Freight) | $4.99
+2mm drill Bit | no link/in store (Fisher Auto Parts) | $2.50
+3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
+4mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.50
 
 <!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
-<!-- ------------------------------ Components Owned End ------------------------------ -->
+<!-- ------------------------------ Components End ------------------------------ -->
+
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
