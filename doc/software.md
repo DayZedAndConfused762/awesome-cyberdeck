@@ -133,6 +133,9 @@ This is a list of software that may be useful for CyberDecks.
 
 ## Meshtastic
 - [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information.
+- [eMesh - A human-usable fast and universal GUI for Meshtastic nodes](https://github.com/thecookingsenpai/emesh)
+- [A Python client for use with Meshtastic devices.](https://github.com/meshtastic/python)
+- [Web based flasher for Meshtastic devices](https://flasher.meshtastic.org/)
 
 <!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
 
