@@ -90,19 +90,16 @@ This is a list of guides and helpful information.
 
 ### Meshtastic
 
-- https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit
-- https://github.com/thecookingsenpai/emesh
-- https://github.com/meshtastic/python
-- https://meshtastic.org/docs/community/software/meshtastic-web-api/
-- https://github.com/meshtastic/meshtastic/issues/891
-- https://meshtastic.org/docs/hardware/devices/raspberry-pi/
-- https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/
-- https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/
-- https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/
-- https://flasher.meshtastic.org/
-- https://www.youtube.com/watch?v=6UwWQSTCr_I
-- https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/
-- https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/
+- [Meshtastic on the Raspberry Pi](https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit)
+- [Meshtastic Web API](https://meshtastic.org/docs/community/software/meshtastic-web-api/)
+- [Meshtastic on the Raspbery Pi Pico](https://meshtastic.org/docs/hardware/devices/raspberry-pi/)
+- [LilyGo T-Beam + Raspberry Pi Zero Serial Connection](https://www.reddit.com/r/meshtastic/comments/1bepyt5/lilygo_tbeam_raspberry_pi_zero_serial_connection/)
+- [Raspberry Pi with LoRa and LCD screen](https://www.reddit.com/r/meshtastic/comments/vwsrk4/raspberry_pi_with_lora_and_lcd_screen/)
+- [Guide to install the python cli and configure your device on a raspberry pi 4](https://www.reddit.com/r/meshtastic/comments/190bw6c/guide_to_install_the_python_cli_and_configure/)
+- [Meshtastic Native on the Raspberry Pi](https://www.youtube.com/watch?v=6UwWQSTCr_I)
+- [Rasp3B+ and Waveshare SX1262 915M LoRa HAT](https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/)
+- [What is The Best Device For Meshtastic?](https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/)
+- [Meshtastic on Linux-Native Devices](https://meshtastic.org/docs/hardware/devices/linux-native-hardware/)
 
 ### Software Defined Radio
 
