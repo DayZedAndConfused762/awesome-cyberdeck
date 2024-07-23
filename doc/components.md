@@ -39,6 +39,7 @@ This is a list of components for CyberDecks.
   - [Power](#Batteries)
   - [Buttons](#Buttons)
   - [Power Supplies](#Power-Supplies)
+  - [Solar Panels](#Solar-Panels)
   - [UPS](#UPS)
 - [SDR](#SDR)
 - [Storage](#Storage)
@@ -262,6 +263,7 @@ Anker Portable Charger, Power Bank, 40,000mAh 30W Battery Pack | https://www.ama
 Anker Power Bank, 24,000mAh 3-Port Portable Charger with 140W Output |  https://www.amazon.com/gp/product/B09VPHVT2Z/ | $109.99
 140W Power Bank, 24600mAh 3-Port PD3.1 | https://www.amazon.com/gp/product/B0CDQ4WK47/ | $71.99
 Panasonic NCR 18650 3400mAh 3.7V Unprotected High-Drain 4.87A Lithium Ion | https://www.batteryjunction.com/panasonic-ncr18650b-3400 | $8.99
+Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=42179797123323  $169.00
 
 ### *Buttons*
 Item|URL|Price
@@ -272,6 +274,12 @@ Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | 
 Item|URL|Price
 ---|---|---
 CanaKit 3.5A Raspberry Pi 4 Power Supply with PiSwitch (USB-C) | https://www.amazon.com/dp/B07TSFYXBC/ | $12.99
+Sharge 100W Pro | https://sharge.com/products/shargeek-usb-c-charger-100w?variant=45663814648059 | $49.99
+
+### *Solar Panels*
+Item|URL|Price
+---|---|---
+Power Bank Solar Panel(Shargeek 100) | https://sharge.com/products/storm-2-solar-power-bank-charger-case-portable-solar-panels-charger-12w?variant=44517890851067 | $89.00
 
 ### *UPS*
 Item|URL|Price
@@ -300,6 +308,7 @@ SanDisk 1TB Extreme External Portable SSD | https://www.walmart.com/ip/192858504
 SanDisk 512GB Ultra microSDXC | https://www.walmart.com/ip/1455959513 | $42.69
 SanDisk 32GB 3-Pack Ultra Fit USB 3.1 Flash Drive (3x32GB) | https://www.amazon.com/gp/product/B09FFK1QLR/ | $20.82
 SanDisk 64GB Extreme PRO® microSD | https://www.amazon.com/gp/product/B09X7BYSFG/ | $13.99
+SHARGE Disk SSD Holder | https://sharge.com/products/sharge-disk?variant=44957820813563 | $38.99
 
 <!-- ++++++++++++++++++++ Storage End ++++++++++++++++++++ -->
 
