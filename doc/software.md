@@ -19,6 +19,7 @@ This is a list of software that may be useful for CyberDecks.
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
 - [FM Radio Transmitting](#FM-Radio-Transmitting)
+- [Fonts](#Fonts)
 - [Gaming](#Gaming)
 - [GPS and Mapping](#GPS-and-Mapping)
 - [Hardware Utilities](#Hardware-Utilities)
@@ -74,6 +75,7 @@ This is a list of software that may be useful for CyberDecks.
 - [HDD Raw Copy Tool(windows)](https://hddguru.com/software/HDD-Raw-Copy-Tool/): HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  
 - [imgclone](https://github.com/tom-2015/imgclone): This program can be used to create a backup of your Raspberry Pi SD card while it's active. 
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/): Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating.
+- [Raspberry Pi Imager(GitHub)](https://github.com/raspberrypi/rpi-imager): GitHub repo for Raspberry Pi Imager.
 - [rpi-clone](https://github.com/billw2/rpi-clone): rpi-clone is a shell script that is for cloning a running Raspberry Pi booted source disk (SD card or USB disk) to a destination disk which will be bootable.
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/): SD Memory Card Formatter for Windows Download.
 
@@ -87,6 +89,17 @@ This is a list of software that may be useful for CyberDecks.
   - [PiFM GTK (MundeepL)](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
 
 <!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Fonts Start ++++++++++++++++++++ -->
+
+## Fonts
+- [Codeface](https://github.com/chrissimpkins/codeface#readme): Typefaces for Source Code Beautification
+- [WipEout Fonts](https://github.com/NR74W/WipEout-Fonts): Fonts from the WipEout series, remade in OpenType format.
+- [mononoki](https://github.com/madmalik/mononoki/tree/main?tab=readme-ov-file): A font for programming and code review.
+- [Awesome fonts](https://github.com/brabadu/awesome-fonts?tab=readme-ov-file#programming-fonts): A curated list of fonts and typography resources.
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts): Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons).
+
+<!-- ++++++++++++++++++++ Fonts End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
@@ -194,7 +207,9 @@ This is a list of software that may be useful for CyberDecks.
 - [tmux](https://github.com/tmux/tmux/wiki): tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.
   - [Tmux Configuration](https://github.com/samoshkin/tmux-config): Tmux configuration, that supercharges your tmux and builds cozy and cool terminal environment.
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator): Create and manage tmux sessions easily.
-  - 
+- [eDEX-UI](https://github.com/GitSquared/edex-ui): eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
+- [Terminals are Sexy](https://github.com/k4m4/terminals-are-sexy?tab=readme-ov-file#readme): A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+
 <!-- ++++++++++++++++++++ Utilities End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
