@@ -22,24 +22,26 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 <!-- ------------------------------ Gun Case Start ------------------------------ -->
 
 - [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
+- [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
+- [little-luggable](https://github.com/jbmorley/little-luggable)
+- [the Raspberry Pi Quick Kit](https://www.doscher.com/the-raspberry-pi-quick-kit/)
+- [RPI-CyberDeck](https://github.com/JFisch25200/RPI-CyberDeck)
+- [LunchBox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck)
 
 <!-- ------------------------------ Gun Case End ------------------------------ -->
 
 
-- [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
+<!-- ------------------------------ Unsorted Start ------------------------------ -->
+
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
-- [little-luggable](https://github.com/jbmorley/little-luggable)
 - [MR 3000 dual band radio device](https://parallax_punch.artstation.com/projects/XL6eL)
-- [the Raspberry Pi Quick Kit](https://www.doscher.com/the-raspberry-pi-quick-kit/)
 - [cyberDeck by TechDocN](https://github.com/TechDocN/cyberDeck)
 - [CyberDeck by T-ryder2](https://github.com/T-ryder2/CyberDeck)
 - [Cyberdeck by SlothWizard](https://github.com/Sloth-Wizard/CyberDeck)
 - [cyberDeck 2022](https://github.com/wdbm/cyberDeck_2022)
-- [RPI-CyberDeck](https://github.com/JFisch25200/RPI-CyberDeck)
 - [oldsoul](https://github.com/rconjoe/oldsoul)
 - [Orange-Pi-Cyberdeck](https://github.com/Skitz67/Orange-Pi-Cyberdeck)
-- [LunchBox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck)
 - [PiZero-CyberDeck-Tape](https://github.com/krum04/PiZero-CyberDeck-Tape)
 - [OmniDevice](https://github.com/spacecadet85/CyberDeck--OmniDevice)
 - [smolDeck](https://github.com/cjdaly/smolDeck)
@@ -50,8 +52,9 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 - [writerDeck.org](https://github.com/brsloan/writerDeck)
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
-- [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
+
+<!-- ------------------------------ Unsorted End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
