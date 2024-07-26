@@ -10,12 +10,22 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
-<!-- ------------------------------ Gun Case Start ------------------------------ -->
+<!-- ------------------------------ Lists Start ------------------------------ -->
 
-- [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
 - [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
+
+<!-- ------------------------------ Lists End ------------------------------ -->
+
+
+<!-- ------------------------------ Gun Case Start ------------------------------ -->
+
+- [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
+
+<!-- ------------------------------ Gun Case End ------------------------------ -->
+
+
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
@@ -42,8 +52,6 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
 - [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
-
-<!-- ------------------------------ Gun Case End ------------------------------ -->
 
 
 <!-- ------------------------------ Outro Start ------------------------------ -->
