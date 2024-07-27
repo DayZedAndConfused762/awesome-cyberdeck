@@ -321,7 +321,7 @@ Fiskars 12" x 18" Double-Sided Rotary Cutting Mat, Gray| https://www.walmart.com
 Fiskars® Standard #11 Blades, 5ct | https://www.michaels.com/product/fiskars-standard-11-blades-5ct-10608964 | $4.99
 Fiskars® Softgrip® Detail Knife | https://www.michaels.com/product/fiskars-softgrip-detail-knife-10450829 | $6.99
 STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $27.99
-Utility Knife | no link/in store (Harbor Freight) | $4.99
+Folding Lock-Back Utility Knife | https://www.harborfreight.com/folding-lock-back-utility-knife-62358.html | $5.99
 2mm drill Bit | no link/in store (Fisher Auto Parts) | $2.50
 3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
 4mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.50
