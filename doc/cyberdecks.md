@@ -13,9 +13,9 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 ## Contents
--[Lists](#Lists)
--[Gun Case Decks](#Gun-Case-Decks)
--[Unsorted Decks](#Unsorted-Decks)
+- [Lists](#Lists)
+- [Gun Case Decks](#Gun-Case-Decks)
+- [Unsorted Decks](#Unsorted-Decks)
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
