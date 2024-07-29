@@ -32,12 +32,12 @@ Contributions *very welcome* but first please see [Contributing](#contributing).
 
 ## Lists
 
- - [CyberDecks](doc/cyberdecks.md)
- - [Components](doc/components.md)
- - [Guides](doc/guides.md)
- - [Operating Systems](doc/operating-systems.md)
- - [Software](doc/software.md)
- - [Web-based Tools & Utilities](doc/webtools.md)
+- [Inspiration](doc/inspiration.md): CyberDecks, projects, and links for inspiration.
+- [Components](doc/components.md):  Components and parts.
+- [Guides](doc/guides.md): A list of guides/tutorials/information.
+- [Operating Systems](doc/operating-systems.md): A list of various Operating Systems.
+- [Software](doc/software.md): Software used and to possibly use.
+- [Web-based Tools & Utilities](doc/webtools.md): A collection of web based tools and utilities.
 
 <!-- ------------------------------ Lists End ------------------------------ -->
 
