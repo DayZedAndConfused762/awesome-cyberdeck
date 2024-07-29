@@ -12,7 +12,7 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-# Content:
+# Contents
 
 - [Lists](#Lists)
 - [Communications](#Communications)

@@ -10,7 +10,7 @@
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents:
+## Contents
 
 - [Communications](#Communications)
 - [Data](#Data)

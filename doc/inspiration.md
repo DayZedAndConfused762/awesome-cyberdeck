@@ -12,7 +12,7 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Content
+## Contents
 
 - [CyberDecks](#CyberDecks)
   - [Lists](#Deck-Lists)
