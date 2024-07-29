@@ -12,7 +12,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+# Contents:
 
 - [AI](#AI)
 - [Coding](#Coding)

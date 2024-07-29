@@ -12,7 +12,7 @@ This is a template for list of components.
 
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
-## Contents
+# Contents:
 
 - [Section Name](#Section-Name)
   - [Subsection Name](#Subsection-Name)

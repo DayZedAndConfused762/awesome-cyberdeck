@@ -12,7 +12,7 @@ This is template for lists.
 
 <!-- ------------------------------ Overview End ------------------------------ -->
 
-## Contents:
+# Contents:
 
 - [Section Name](#Section-Name)
   - [Subsection Name](#Subsection-name)
