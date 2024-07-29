@@ -13,7 +13,7 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 <!-- ------------------------------ Overview Start ------------------------------ -->
 
 ## Contents
-- [Lists](#Lists)
+- [Lists](#Deck-Lists)
 - [Gun Case Decks](#Gun-Case-Decks)
 - [Unsorted Decks](#Unsorted-Decks)
 
@@ -22,7 +22,7 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 
 <!-- ------------------------------ Lists Start ------------------------------ -->
 
-## Lists
+## Deck Lists
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
 - [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
