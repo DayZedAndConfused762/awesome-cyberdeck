@@ -149,6 +149,8 @@ Item|URL|Price
 ---|---|---
 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
 Mini, Compact 40mm x 20mm USB Fan | https://www.amazon.com/gp/product/B098LBSW23/ | $9.99
+GeeekPi 102pcs Heatsink Kit | https://www.amazon.com/gp/product/B099DTH24X/ | $15.99
+Geekworm Cooling Fan Expansion Board (X728-A1) | https://www.amazon.com/dp/B08B5TQH6W | $16.99
 
 <!-- ++++++++++++++++++++ Cooling End ++++++++++++++++++++ -->
 
@@ -269,6 +271,7 @@ Shargeek 100 25,600mAh power bank | https://sharge.com/products/storm2?variant=4
 Item|URL|Price
 ---|---|---
 Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | $9.99
+Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
 ### *Power Supplies*
 Item|URL|Price
