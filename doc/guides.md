@@ -37,7 +37,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ AI Start ------------------------------ -->
 
-## AI
+## AI:
 
 - [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html): 
 - [Best LLM to run on a RPI 4b 4/8GB?](https://www.reddit.com/r/LocalLLM/comments/14ztpt1/best_llm_to_run_on_a_rpi_4b_48gb/?rdt=42405): 
@@ -49,7 +49,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Coding Start ------------------------------ -->
 
-## Coding
+## Coding:
 
 - [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
 
@@ -78,17 +78,17 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Communications Start ------------------------------ -->
 
-## Communications
+## Communications:
 
 - [Repurposed Satellite Dish Antenna Captures Wi-Fi and Cell Phone Signals](https://www.instructables.com/Cell-Phone-WiFi-Signal-Booster-Antenna/)
 
-### IRC
+### IRC:
 
 - [IRC client with web interface](https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/)
 - [Creating an Raspberry pi IRC and web server](https://www.reddit.com/r/irc/comments/osu1f6/creating_an_raspberry_pi_irc_and_web_server/)
 - [Raspberry Pi IRC Server](https://pimylifeup.com/raspberry-pi-irc-server/)
 
-### Meshtastic
+### Meshtastic:
 
 - [Meshtastic on the Raspberry Pi](https://docs.google.com/document/d/17LW4ExkG6xVFnusVBMaDMA08kmZfyHiPbi8vjLpmLAs/edit)
 - [Meshtastic Web API](https://meshtastic.org/docs/community/software/meshtastic-web-api/)
@@ -101,7 +101,7 @@ This is a list of guides and helpful information.
 - [What is The Best Device For Meshtastic?](https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/)
 - [Meshtastic on Linux-Native Devices](https://meshtastic.org/docs/hardware/devices/linux-native-hardware/)
 
-### Software Defined Radio
+### Software Defined Radio:
 
 - [RTL-SDR Quick Star Guide](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/):
 - [RTL-SDR BLOG V4 USERS GUIDE](https://www.rtl-sdr.com/v4/)
@@ -110,7 +110,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ CyberSecurity Start ------------------------------ -->
 
-## CyberSecurity
+## CyberSecurity:
 
 - [Clear the Logs & Bash History on Hacked Linux Systems to Cover Your Tracks](https://null-byte.wonderhowto.com/how-to/clear-logs-bash-history-hacked-linux-systems-cover-your-tracks-remain-undetected-0244768/): 
 - [How to Secure Our Kali Linux to Ensure Our Protection](https://www.geeksforgeeks.org/how-to-secure-our-kali-linux-to-ensure-our-protection/?ref=ml_lbp): 
@@ -127,7 +127,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Data Start ------------------------------ -->
 
-## Data Management
+## Data Management:
 
 - [How To Format Pi SD Cards Using SD Formatter](https://www.raspberrypi-spy.co.uk/2015/03/how-to-format-pi-sd-cards-using-sd-formatter/): 
 - [Re-format SD card back to normal](https://forums.raspberrypi.com/viewtopic.php?t=204167&sid=8ff11f46427bd9df34d5688809002891): 
@@ -138,7 +138,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Downloading Start ------------------------------ -->
 
-## Downloading Content
+## Downloading Content:
 
 - [Downloading in bulk using wget](https://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/): 
 - [Archive.org command line interface](https://archive.org/developers/internetarchive/cli.html): 
@@ -147,7 +147,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Kali Start ------------------------------ -->
 
-## Kali Linux
+## Kali Linux:
 
 - [Enabling Remote Desktop and SSH access to Kali](https://www.geeksforgeeks.org/enabling-remote-desktop-and-ssh-access-to-kali/): 
 - [How to Enable and Start SSH on Kali Linux](https://www.geeksforgeeks.org/how-to-enable-and-start-ssh-on-kali-linux/): 
@@ -168,7 +168,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Linux Start ------------------------------ -->
 
-## Linux General Guides
+## Linux General Guides:
 
 - [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/?ref=outind): 
 - [Linux Basics](https://null-byte.wonderhowto.com/how-to/linux-basics/): 
@@ -185,7 +185,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Offline Start ------------------------------ -->
 
-## Offline Internet
+## Offline Internet:
 
 - [Build Your Own Off-Grid Internet with Raspberry Pi!](https://www.youtube.com/watch?v=Hp4hLpDFVyg): 
 - [Build an Off Grid Wikipedia with #RaspberryPi](https://www.youtube.com/watch?v=R63x2TXm0s8): 
@@ -196,7 +196,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ Networking Start ------------------------------ -->
 
-## Networking
+## Networking:
 
 - [Share laptop WiFi via ethernet cable to PC](https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad): 
 - [How to Share Internet Over Ethernet Cable](https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/): 
@@ -205,7 +205,7 @@ This is a list of guides and helpful information.
 
 <!-- ------------------------------ RPi Start ------------------------------ -->
 
-## Raspberry Pi Specific
+## Raspberry Pi Specific:
 
 - [Raspberry Pi OS Documentation](https://www.raspberrypi.com/documentation/computers/os.html): 
 - [Boot from USB - RPi 2/3](https://pimylifeup.com/raspberry-pi-boot-from-usb/): 

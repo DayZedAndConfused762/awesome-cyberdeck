@@ -40,7 +40,7 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
 
-## Lists
+## Lists:
 
 - [Awesome](https://github.com/sindresorhus/awesome): The Awesome Manifesto list, a list of all sort of awesome things, mostly software.
 - [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi): This list is a collection of tools, projects, images and resources conforming to the Awesome Manifesto.
@@ -52,14 +52,16 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Communications Start ++++++++++++++++++++ -->
 
-## Communications
+## Communications:
+
 - [WeeChat](https://github.com/weechat/weechat): (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
 
 <!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ CyberSecurity Start ++++++++++++++++++++ -->
 
-## CyberSecurity
+## CyberSecurity:
+
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi):  A2C-based "AI" leveraging bettercap that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 - [Aircrack-ng](http://www.aircrack-ng.org/): Aircrack-ng is a complete suite of tools to assess WiFi network security.
 - [Cyberdeck](https://github.com/Martian1337/CyberDeck): CyberDeck is a script designed for setting up a web pentesting environment. It installs a wide range of essential tools for network reconnaissance, vulnerability analysis, exploitation, and is specifically tailored to web security testing.
@@ -70,7 +72,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Data Start ++++++++++++++++++++ -->
 
-## Data Management
+## Data Management:
+
 - [balenaEtcher](https://etcher.balena.io/): Flash OS images to SD cards & USB drives, safely and easily.
 - [HDD Raw Copy Tool(windows)](https://hddguru.com/software/HDD-Raw-Copy-Tool/): HDD Raw Copy Tool is a utility for low-level, sector-by-sector hard disk duplication and image creation.  
 - [imgclone](https://github.com/tom-2015/imgclone): This program can be used to create a backup of your Raspberry Pi SD card while it's active. 
@@ -83,7 +86,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
-## FM Radio Transmitting
+## FM Radio Transmitting:
+
 - [PiFM](https://github.com/rm-hull/pifm?tab=readme-ov-file): Turning the Raspberry Pi Into an FM Transmitter.
 - [PiFmAdv](https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
   - [PiFM GTK](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
@@ -92,7 +96,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Fonts Start ++++++++++++++++++++ -->
 
-## Fonts
+## Fonts:
+
 - [Codeface](https://github.com/chrissimpkins/codeface#readme): Typefaces for Source Code Beautification
 - [WipEout Fonts](https://github.com/NR74W/WipEout-Fonts): Fonts from the WipEout series, remade in OpenType format.
 - [mononoki](https://github.com/madmalik/mononoki/tree/main?tab=readme-ov-file): A font for programming and code review.
@@ -103,7 +108,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Gaming Start ++++++++++++++++++++ -->
 
-## Gaming
+## Gaming:
+
 - [Dwarf Fortress](http://www.bay12games.com/dwarves/): Dwarf Fortress is a construction and management simulation and roguelike indie video game created by Bay 12 Games. 
 - [NetHack](https://www.nethack.org/): NetHack is an open source single-player roguelike video game, first released in 1987.
 - [pokete](https://lxgr-linux.github.io/pokete/): A terminal based Pokemon like game.
@@ -112,7 +118,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
-## GPS and Mapping
+## GPS and Mapping:
+
 - [FoxTrot GPS](https://www.foxtrotgps.org/): FoxtrotGPS is an easy to use, free & open-source GPS/GIS application that works well on small screens, and is especially suited to touch input.
 - [Ulysses Mapping Program](https://github.com/sbenf999/Ulysses-Mapping-Program): An offline and online mapping program created using CustomTkinter and TkinterMapview. Incorporates a settings system and an offline tile downloading addon.
 
@@ -120,7 +127,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Hardware Start ++++++++++++++++++++ -->
 
-## Hardware Utilities
+## Hardware Utilities:
+
 - [Waveshare 10.1inch HDMI LCD (B) (with case)](https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)): Software for the Waveshare 10.1inch LCD (B) display.
 - [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
 - [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
@@ -131,7 +139,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Media Start ++++++++++++++++++++ -->
 
-## Media
+## Media:
+
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg): FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [FIM (Fbi IMproved) image viewer](https://www.nongnu.org/fbi-improved/): FIM is a highly customizable and scriptable image viewer for users who are comfortable with software like the VIM text editor
 - [mpv](https://mpv.io/): a free, open source, and cross-platform media player
@@ -144,7 +153,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
-## Meshtastic
+## Meshtastic:
+
 - [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information.
 - [eMesh - A human-usable fast and universal GUI for Meshtastic nodes](https://github.com/thecookingsenpai/emesh)
 - [A Python client for use with Meshtastic devices.](https://github.com/meshtastic/python)
@@ -154,7 +164,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
 
-## Networking
+## Networking:
+
 - [mRemoteNG](https://mremoteng.org/download): Multi-Remote Next Generation Connection Manager.
 - [PiHole](https://pi-hole.net/): Network-wide Ad Blocking.
 - [PiVPN](https://www.pivpn.io/): The simplest way to setup and manage a VPN, designed for Raspberry Pi.
@@ -163,7 +174,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
-## Offline Internet
+## Offline Internet:
+
 - [Internet in a Box](https://internet-in-a-box.org/  ): It's a digital library software that includes a wireless access point and storage, and can be used by nearby users.  Provides access to essential internet resources without an internet connection.
 - [Kiwix offline internet/wiki](https://www.kiwix.org/en/): Kiwix is a free, open-source, non-profit software project that allows users to access the internet without an internet connection.
 
@@ -171,7 +183,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ RPi General Start ++++++++++++++++++++ -->
 
-## Raspberry Pi General
+## Raspberry Pi General:
+
 - [PiKISS](https://github.com/jmcerrejon/PiKISS): A Bunch Of Scripts With Menu To Make Your Life Easier.
 - [PiGro](https://github.com/actionschnitzel/PiGro-Aid-): All Settings In One Place!.
 - [pigg](https://github.com/andrewdavidmackenzie/pigg): - Raspberry Pi GPIO GUI An app for Raspberry Pi GPIO Output control and Input visualization, built in rust using the Iced GUI toolkit and rppal GPIO crate.
@@ -187,7 +200,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
-## SDR
+## SDR:
+
 - [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio.
 - [Gqrx SDR](https://www.gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi): Open source software defined radio by Alexandru Csete OZ9AEC.
 - 
@@ -196,7 +210,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
-## Utilities
+## Utilities:
+
 - [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term?tab=readme-ov-file): A terminal emulator which mimics the look and feel of the old cathode tube screens. It has been designed to be eye-candy, customizable, and reasonably lightweight.
   - [Third Party Themes](https://github.com/Swordfish90/cool-retro-term/wiki/Third-Party-Themes): Themes for Cool-Retro-Term.
   - [MatrixHasYou](https://github.com/narkhy/MatrixHasYou?tab=readme-ov-file): A script that simulates with the exact right times on the terminal the four messages recieved by Thomas Anderson ("Neo") at the beggining of the popular film "The Matrix".
@@ -214,7 +229,8 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Weather Start ++++++++++++++++++++ -->
 
-## Weather
+## Weather:
+
 - [Pi Weather Station](https://github.com/elewin/pi-weather-station): This is a weather station designed to be used with a Raspberry Pi on the official 7" 800x480 touchscreen.
 
 <!-- ++++++++++++++++++++ Weather End ++++++++++++++++++++ -->

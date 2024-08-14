@@ -54,7 +54,7 @@ This is a list of components for CyberDecks.
 
 <!-- ++++++++++++++++++++ Cables Start ++++++++++++++++++++ -->
 
-## Cables and Adapters
+## Cables and Adapters:
 
 ### *Adapters*
 Item|URL|Price
@@ -79,7 +79,6 @@ uxcell 5pcs Silicone Protectors Micro HDMI | https://www.amazon.com/gp/product/B
 Item|URL|Price
 ---|---|---
 Cable Matters 10Gbps 5-Pack Snagless Short Shielded Cat6A 6pk | https://www.amazon.com/gp/product/B00BIPSHQK/ | $9.99
-
 
 ### *GPIO*
 Item|URL|Price
@@ -127,7 +126,8 @@ SABRENT [6-Pack 22AWG Premium 1ft Micro USB Cables | https://www.amazon.com/gp/p
 
 <!-- ++++++++++++++++++++ Cases Start ++++++++++++++++++++ -->
 
-## Cases
+## Cases:
+
 Item|URL|Price
 ---|---|---
 APACHE 1800 Weatherproof Protective Case, Small, Black | https://www.harborfreight.com/1800-weatherproof-protective-case-small-black-64550.html | $12.99
@@ -145,7 +145,8 @@ Geekworm for Raspberry Pi 4 Case, Universal HAT Size | https://www.amazon.com/gp
 
 <!-- ++++++++++++++++++++ Start ++++++++++++++++++++ -->
 
-## Cooling
+## Cooling:
+
 Item|URL|Price
 ---|---|---
 2Pack Quiet 80mm USB Fan | https://www.amazon.com/dp/B0C1GF3R3Y | $19.95
@@ -157,7 +158,8 @@ Geekworm Cooling Fan Expansion Board (X728-A1) | https://www.amazon.com/dp/B08B5
 
 <!-- ++++++++++++++++++++ Compute Start ++++++++++++++++++++ -->
 
-## Core Compute
+## Core Compute:
+
 Item|URL|Price
 ---|---|---
 Raspberry Pi 3 Model B+ Board (3B+) | Previously Owned | $35.00
@@ -169,7 +171,8 @@ Waveshare Package E Compatible with Raspberry Pi Zero 2 WHC Bundle | https://www
 
 <!-- ++++++++++++++++++++ Display Start ++++++++++++++++++++ -->
 
-## Display
+## Display:
+
 Item|URL|Price
 ---|---|---
 Waveshare 7inch Capacitive Touch Screen LCD | https://www.amazon.com/gp/product/B077PLVZCX/ | $63.99
@@ -179,7 +182,8 @@ waveshare 10.1inch Capacitive Touch Screen | https://www.amazon.com/dp/B01H013FG
 
 <!-- ++++++++++++++++++++ Hubs Start ++++++++++++++++++++ -->
 
-## Hubs and Card Readers
+## Hubs and Card Readers:
+
 Item|URL|Price
 ---|---|---
 GL.iNet GL-SFT1200 (Opal) Secure Travel WiFi Router | https://www.amazon.com/gp/product/B09N72FMH5/ | $33.90
@@ -193,7 +197,8 @@ USB Hub 3.0, 7-Port USB Hub Splitter | https://www.amazon.com/gp/product/B0B6B1J
 
 <!-- ++++++++++++++++++++ Input Start ++++++++++++++++++++ -->
 
-## Input Devices
+## Input Devices:
+
 Item|URL|Price
 ---|---|---
 Chicmine LT-T19 2.4GHz Wireless Mouse | https://www.walmart.com/ip/5239182812 | $12.35
@@ -204,7 +209,8 @@ TECKNET Folding Wireless Mouse | https://www.amazon.com/gp/product/B07YCFYLVX/ |
 
 <!-- ++++++++++++++++++++ Mounting Start ++++++++++++++++++++ -->
 
-## Mounting and Hardware
+## Mounting and Hardware:
+
 Item|URL|Price
 ---|---|---
 600PCS M3 Male Female Nylon Hex Spacer Standoffs | https://www.amazon.com/gp/product/B0CBPGKDP4/ | $14.99
@@ -223,17 +229,18 @@ LitOrange 320PCS M3 Male Female Nylon Hex Spacer Standoff | https://www.amazon.c
 
 <!-- ++++++++++++++++++++ Organization Start ++++++++++++++++++++ -->
 
-## Organization and Labeling
+## Organization and Labeling:
+
 Item|URL|Price
 ---|---|---
-Velcro Brand Cable Ties | no link/in store (Michaels) | $1.00 (Clearance)
 30 Pieces Cable Labels Multi-Color Wire Labels | https://www.amazon.com/gp/product/B0CMJ8K1L4/ | $4.46
 
 <!-- ++++++++++++++++++++ Organization End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Panels Start ++++++++++++++++++++ -->
 
-## Panels
+## Panels:
+
 Item|URL|Price
 ---|---|---
 16" x 20" Black Foam Boards, 3ct. | https://www.michaels.com/product/16-x-20-black-foam-boards-3ct-10308906 | $9.99
@@ -244,13 +251,14 @@ Kinlink Black ABS Plastic Sheet 12" x 16"x 0.06" | https://www.amazon.com/gp/pro
 
 <!-- ++++++++++++++++++++ Ports Start ++++++++++++++++++++ -->
 
-## Ports
+## Ports:
+
 Item|URL|Price
 ---|---|---
 PENGLIN 2PCS USB 3.0 Waterproof Socket | https://www.amazon.com/gp/product/B0B9ZKQ51N/ | $13.99
 PENGLIN 2PCS RJ45 Panel Mount Coupler | https://www.amazon.com/gp/product/B09Z2977RZ/ | $14.99
 QIANRENON 10Gbps USB C Panel Mount | https://www.amazon.com/gp/product/B0CKL8DJWH/ | $15.99
-QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $$12.99
+QIANRENON TRS 3.5mm Panel Mount | https://www.amazon.com/gp/product/B0CQLPX1VB/ | $12.99
 USB-C 3.1 Panel Mount Adapter | https://www.amazon.com/gp/product/B0CVXCL791/ | $9.99
 
 <!-- ++++++++++++++++++++ Ports End ++++++++++++++++++++ -->
@@ -304,7 +312,8 @@ V4 R828D RTL2832U 1PPM TCXO HF Bias Tee SMA Software Defined Radio | https://www
 <!-- ++++++++++++++++++++ Sdr End ++++++++++++++++++++ -->
 
 
-## Storage
+## Storage:
+
 Item|URL|Price
 ---|---|---
 Crucial X9 1TB Portable SSD | https://www.amazon.com/dp/B0CGW1FQV4 | $72.99
@@ -318,7 +327,8 @@ SHARGE Disk SSD Holder | https://sharge.com/products/sharge-disk?variant=4495782
 
 <!-- ++++++++++++++++++++ Tools Start ++++++++++++++++++++ -->
 
-## Tools
+## Tools:
+
 Item|URL|Price
 ---|---|---
 Fiskars 12" x 18" Double-Sided Rotary Cutting Mat, Gray| https://www.walmart.com/ip/24548295 | $10.99
@@ -326,9 +336,6 @@ Fiskars® Standard #11 Blades, 5ct | https://www.michaels.com/product/fiskars-st
 Fiskars® Softgrip® Detail Knife | https://www.michaels.com/product/fiskars-softgrip-detail-knife-10450829 | $6.99
 STREBITO Electronics Precision Screwdriver Sets | https://www.amazon.com/gp/product/B08SGM6F79/ | $27.99
 Folding Lock-Back Utility Knife | https://www.harborfreight.com/folding-lock-back-utility-knife-62358.html | $5.99
-2mm drill Bit | no link/in store (Fisher Auto Parts) | $2.50
-3mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.00
-4mm Drill Bit | no link/in store (Fisher Auto Parts) | $3.50
 
 <!-- ++++++++++++++++++++ Tools End ++++++++++++++++++++ -->
 
