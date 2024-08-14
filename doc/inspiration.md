@@ -101,12 +101,11 @@ https://www.doscher.com/
 
 ## SubReddits:
 
-- [CyberDecks](http://www.reddit.com/r/cyberdeck/)
-- [Preppers](https://www.reddit.com/r/preppers/)
-- [Prepping items on sale](https://www.reddit.com/r/preppersales/)
-- [Raspberry Pi](https://www.reddit.com/r/raspberry_pi/)
-- [Raspberry Pi Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
-
+- [r/cyberDeck](http://www.reddit.com/r/cyberdeck/)
+- [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
+- [r/RASPBERRY_PI_PROJECTS](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/)
+- [r/MiniPCs ](https://www.reddit.com/r/MiniPCs/)
+- [r/retrobattlestations](https://www.reddit.com/r/retrobattlestations/)
 
 <!-- ------------------------------ SubReddits End ------------------------------ -->
 
