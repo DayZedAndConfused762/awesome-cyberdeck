@@ -74,6 +74,12 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
 - [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
+https://makerworld.com/en/models/495106#profileId-409179
+https://www.crowdsupply.com/mnt/pocket-reform
+https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/
+https://yarh.io/
+https://github.com/veebch/boostbox
+https://www.doscher.com/
 
 <!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
 
