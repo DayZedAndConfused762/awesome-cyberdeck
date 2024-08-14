@@ -28,20 +28,22 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 
 <!-- ------------------------------ Cyberdecks Start ------------------------------ -->
 
-<!-- ++++++++++++++++++++ Lists Start ++++++++++++++++++++ -->
+## CyberDecks:
 
-## Deck Lists:
+<!-- ++++++++++++++++++++ Deck-Lists Start ++++++++++++++++++++ -->
+
+### Deck Lists:
 
 - [CyberDecks](https://www.reddit.com/r/cyberDeck/)
 - [The CyberDeck Cafe](https://cyberdeck.cafe/)
 - [A CyberDeck Scrapbook](https://scrapbox.io/CYBERDECK/)
 
-<!-- ++++++++++++++++++++ Lists End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Deck-Lists End ++++++++++++++++++++ -->
 
 
-<!-- ++++++++++++++++++++ Gun Case Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Gun-Case-Decks Start ++++++++++++++++++++ -->
 
-## Gun Case Decks:
+### Gun Case Decks:
 
 - [Yet Another Apache Cyberdeck (Y.A.A.C)](https://www.reddit.com/r/cyberdeck/): The Y.A.A.C is a family of CyberDecks built using Apache gun cases.
 - [Raspberry Pi SDR Cyberdeck](https://hackaday.io/project/174301-raspberry-pi-sdr-cyberdeck)
@@ -50,12 +52,12 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 - [RPI-CyberDeck](https://github.com/JFisch25200/RPI-CyberDeck)
 - [LunchBox_cyberDeck](https://github.com/AndresBorray/LunchBox_cyberDeck)
 
-<!-- ++++++++++++++++++++ Gun Case End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Gun-Case-Decks End ++++++++++++++++++++ -->
 
 
-<!-- ++++++++++++++++++++ Unsorted Start ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Unsorted-Decks Start ++++++++++++++++++++ -->
 
-## Unsorted Decks:
+### Unsorted Decks:
 
 - [Framework Cyberdeck](https://github.com/BenMakesEverything/cyberdeck)
 - [framedeck](https://github.com/brickbots/framedeck)
@@ -77,14 +79,14 @@ This is a list of Awesome CyberDecks, useful for inspiration for your builds!
 - [Midnight Eclipse](https://github.com/paradoxzss/Project-Midnight-Eclipse)
 - [CyberMiga](https://github.com/SquishVic/CyberMiga)
 - [CRT CyberDeck with VHF Transmitter](https://www.reddit.com/r/cyberDeck/comments/1e2habi/my_first_cyberdeck/)
-https://makerworld.com/en/models/495106#profileId-409179
-https://www.crowdsupply.com/mnt/pocket-reform
-https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/
-https://yarh.io/
-https://github.com/veebch/boostbox
-https://www.doscher.com/
+- [Cyberdeck by kylecasey4](https://makerworld.com/en/models/495106#profileId-409179)
+- [MNT Pocket Reform](https://www.crowdsupply.com/mnt/pocket-reform)
+- [Junk Cyberdeck](https://www.reddit.com/r/cyberDeck/comments/1crki13/junk_cyberdeck_very_early/)
+- [YET ANOTHER RASPBERRY HANDHELD](https://yarh.io/)
+- [boostbox](https://github.com/veebch/boostbox)
+- [Jay Doscher CyberDecks](https://www.doscher.com/)
 
-<!-- ++++++++++++++++++++ Unsorted End ++++++++++++++++++++ -->
+<!-- ++++++++++++++++++++ Unsorted-Decks End ++++++++++++++++++++ -->
 
 <!-- ------------------------------ Cyberdecks End ------------------------------ -->
 
