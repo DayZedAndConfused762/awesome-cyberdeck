@@ -5,6 +5,8 @@
 
 # Awesome CyberDeck - Operating Systems
 
+This is a list of various operating systems.
+
 <!-- ------------------------------ Intro End ------------------------------ -->
 
 
