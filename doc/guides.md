@@ -20,6 +20,7 @@ This is a list of guides and helpful information.
   - [Python](#Python)
   - [Bash](#Bash)
 - [Communications](#Communications)
+  - [ATAK](#ATAK)
   - [IRC](#IRC)
   - [Meshtastic](#Meshtastic)
   - [Software Defined Radio](#Software-Defined-Radio)
@@ -55,6 +56,7 @@ This is a list of guides and helpful information.
 ## Coding:
 
 - [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
+- [Awesome GitHub Lists](https://github.com/phillipadsmith/awesome-github#readme)
 
 ### *Markdown*
 
@@ -85,6 +87,10 @@ This is a list of guides and helpful information.
 
 - [Repurposed Satellite Dish Antenna Captures Wi-Fi and Cell Phone Signals](https://www.instructables.com/Cell-Phone-WiFi-Signal-Booster-Antenna/)
 
+### ATAK: 
+
+- [How-to: Install FreeTAKServer on a Pi](https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/)
+
 ### IRC:
 
 - [IRC client with web interface](https://www.reddit.com/r/raspberry_pi/comments/sd1u3k/irc_client_with_web_interface/)
@@ -103,6 +109,7 @@ This is a list of guides and helpful information.
 - [Rasp3B+ and Waveshare SX1262 915M LoRa HAT](https://www.reddit.com/r/meshtastic/comments/1auh79f/rasp3b_and_waveshare_sx1262_915m_lora_hat/)
 - [What is The Best Device For Meshtastic?](https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/)
 - [Meshtastic on Linux-Native Devices](https://meshtastic.org/docs/hardware/devices/linux-native-hardware/)
+- [This device makes Meshtastic the BEST off-grid tech](https://www.youtube.com/watch?v=2Ry-ck0fhfw)
 
 ### Software Defined Radio:
 

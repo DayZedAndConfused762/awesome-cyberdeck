@@ -35,6 +35,7 @@ This is a list of various operating systems.
 
 - [EZ-WifiBroadcast](https://github.com/rodizio1/EZ-WifiBroadcast): Affordable Digital HD Video Transmission made easy! Ez-WifiBroadcast is a radically simple digital data transmission system.
 - [PiSDR](https://github.com/luigifcruz/pisdr-image): The PiSDR is a Raspbian based operating system for the Pi pre-loaded with multiple Software Defined Radio software. It was created to serve as a fast and reliable bootstrap for SDR projects.
+- [RPiFTS](https://www.reddit.com/r/ATAK/comments/jhk03u/rpifts_readytogo_image_available_for_raspberry_pi/): This image is a "Ready-to-Go" solution for those who would like to setup a FreeTAKServer but are technologically challenged.
 
 <!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
 
