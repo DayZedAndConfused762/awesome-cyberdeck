@@ -191,8 +191,6 @@ ZITAO HackBerryPi - Digital CyberPunk STL | https://carboncomputers.us/products/
 
 ## Communication:
 
-<!-- ------------------------------ Antennas Start ------------------------------ -->
-
 ### Antennas:
 
 Item|URL|Price
