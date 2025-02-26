@@ -39,11 +39,15 @@ This is a list of guides and helpful information.
 
 ## AI:
 
-- [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html): 
-- [Best LLM to run on a RPI 4b 4/8GB?](https://www.reddit.com/r/LocalLLM/comments/14ztpt1/best_llm_to_run_on_a_rpi_4b_48gb/?rdt=42405): 
-- [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/?rdt=50633): 
-- [How to Run a Large Language Model on Your Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395): 
-- [How to run a Large Language Model (LLM) on a Raspberry Pi 4](https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733): 
+- [Deploy and run LLM on Raspberry Pi](https://www.dfrobot.com/blog-13498.html)
+- [Best LLM to run on a RPI 4b 4/8GB?](https://www.reddit.com/r/LocalLLM/comments/14ztpt1/best_llm_to_run_on_a_rpi_4b_48gb/?rdt=42405)
+- [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/?rdt=50633)
+- [How to Run a Large Language Model on Your Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395)
+- [How to run a Large Language Model (LLM) on a Raspberry Pi 4](https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733)
+- [https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/]()
+- [https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/]()
+- [https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/]()
+- [https://itsfoss.com/llms-for-raspberry-pi/]()
 
 <!-- ------------------------------ AI End ------------------------------ -->
 
