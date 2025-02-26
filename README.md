@@ -38,6 +38,7 @@ Contributions *very welcome* but first please see [Contributing](#contributing).
 - [Operating Systems](doc/operating-systems.md): A list of various Operating Systems.
 - [Software](doc/software.md): Software used and to possibly use.
 - [Web-based Tools & Utilities](doc/webtools.md): A collection of web based tools and utilities.
+- [Unsorted Links](doc/unsorted.md): Links that look interesting but have yet to be fully reviewed or organized.
 
 <!-- ------------------------------ Lists End ------------------------------ -->
 
