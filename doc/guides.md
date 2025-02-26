@@ -27,6 +27,7 @@ This is a list of guides and helpful information.
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
 - [Downloading Content](#Downloading-Content)
+- [Github Guides](#Github-Guides)
 - [Kali Linux](#Kali-Linux)
 - [Linux General Guides](#Linux-General-Guides)
 - [Offline Internet](#Offline-Internet)
@@ -90,6 +91,7 @@ This is a list of guides and helpful information.
 ### ATAK: 
 
 - [How-to: Install FreeTAKServer on a Pi](https://www.reddit.com/r/ATAK/comments/husyzl/howto_install_freetakserver_on_a_pi/)
+- [ATAK Map Downloads](https://www.reddit.com/r/ATAK/comments/1elywi0/map_down_loads/)
 
 ### IRC:
 
@@ -110,6 +112,7 @@ This is a list of guides and helpful information.
 - [What is The Best Device For Meshtastic?](https://adrelien.com/blog/what-is-the-best-device-for-meshtastic/)
 - [Meshtastic on Linux-Native Devices](https://meshtastic.org/docs/hardware/devices/linux-native-hardware/)
 - [This device makes Meshtastic the BEST off-grid tech](https://www.youtube.com/watch?v=2Ry-ck0fhfw)
+- [Meshtastic Waveshare LoRa HAT setup on Raspberry Pi 4](https://www.youtube.com/watch?v=91ULi9DWgds)
 
 ### Software Defined Radio:
 
@@ -132,6 +135,7 @@ This is a list of guides and helpful information.
 - [Crack Password-Protected ZIP Files, PDFs & More with Zydra](https://null-byte.wonderhowto.com/how-to/crack-password-protected-zip-files-pdfs-more-with-zydra-0207607/): 
 - [Securiosity YouTube Channel](https://www.youtube.com/@Securiosity): 
 - [Stopping people play music via bluetooth speakers](https://hackaday.io/project/163727-stopping-people-play-music-via-bluetooth-speakers): 
+- [How to Hack 5 GHz Wi-Fi Networks with an Alfa Wi-Fi Adapter](https://null-byte.wonderhowto.com/how-to/hack-5-ghz-wi-fi-networks-with-alfa-wi-fi-adapter-0203515/)
 
 <!-- ------------------------------ CyberSecurity End ------------------------------ -->
 
@@ -154,6 +158,18 @@ This is a list of guides and helpful information.
 - [Archive.org command line interface](https://archive.org/developers/internetarchive/cli.html): 
 
 <!-- ------------------------------ Downloading End ------------------------------ -->
+
+<!-- ------------------------------ Github Start ------------------------------ -->
+
+## Github:
+
+- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github#readme): A collection of things that make GitHub one of the most amazing co-creation platforms in the world.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme): A collection of cool hidden and not so hidden features of Git and GitHub.
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme): Git cheat sheet saves you from learning all the commands by heart.
+- [git-tips](https://github.com/git-tips/tips#readme): Collection of git-tips
+
+
+<!-- ------------------------------ Github End ------------------------------ -->
 
 <!-- ------------------------------ Kali Start ------------------------------ -->
 
@@ -208,8 +224,8 @@ This is a list of guides and helpful information.
 
 ## Networking:
 
-- [Share laptop WiFi via ethernet cable to PC](https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad): 
-- [How to Share Internet Over Ethernet Cable](https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/): 
+- [Share laptop WiFi via ethernet cable to PC](https://answers.microsoft.com/en-us/windows/forum/all/share-laptop-wifi-via-ethernet-cable-to-pc/b8cd07cc-b6b7-4d5a-b8ca-1b7c2bb465ad)
+- [How to Share Internet Over Ethernet Cable](https://www.instructables.com/How-to-share-Internet-over-Ethernet-Cable/)
 
 <!-- ------------------------------ Networking End ------------------------------ -->
 
@@ -217,12 +233,13 @@ This is a list of guides and helpful information.
 
 ## Raspberry Pi Specific:
 
-- [Raspberry Pi OS Documentation](https://www.raspberrypi.com/documentation/computers/os.html): 
-- [Boot from USB - RPi 2/3](https://pimylifeup.com/raspberry-pi-boot-from-usb/): 
-- [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/): 
-- [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/): 
-- [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html):
+- [Raspberry Pi OS Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
+- [Boot from USB - RPi 2/3](https://pimylifeup.com/raspberry-pi-boot-from-usb/)
+- [Raspberry Pi as an FM Transmitter](https://makezine.com/article/maker-news/raspberry-pi-as-an-fm-transmitter/)
+- [Setup a Raspberry Pi to run a Web Browser in Kiosk Mode](https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/)
+- [Raspberry Pi Configuration](https://www.raspberrypi.com/documentation/computers/configuration.html)
 - [Streaming to YouTube Live from a Raspberry Pi Camera Using Python](https://www.reddit.com/r/raspberryDIY/comments/1dtlvbx/streaming_to_youtube_live_from_a_raspberry_pi/)
+- [Beginners Guide to Using a Raspberry Pi with a CRT Television](https://www.blakecarpenter.dev/using-a-raspberry-pi-with-a-crt-television/)
 
 <!-- ------------------------------ RPi End ------------------------------ -->
 

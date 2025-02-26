@@ -21,6 +21,7 @@ This is a list of software that may be useful for CyberDecks.
 - [FM Radio Transmitting](#FM-Radio-Transmitting)
 - [Fonts](#Fonts)
 - [Gaming](#Gaming)
+- [Git & Github](#Git)
 - [GPS and Mapping](#GPS-and-Mapping)
 - [Hardware Utilities](#Hardware-Utilities)
 - [Media](#Media)
@@ -54,6 +55,7 @@ This is a list of software that may be useful for CyberDecks.
 
 ## Communications:
 
+- [Android Team Awareness Kit or ATAK / CivTAK](https://www.civtak.org/atak-about/): The Android Team Awareness Kit (ATAK), for civilian use, or Android Tactical Assault Kit (also ATAK) for military use - is a suite of software that provides geospatial information and allows user collaboration over geography.
 - [WeeChat](https://github.com/weechat/weechat): (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
 
 <!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
@@ -115,6 +117,15 @@ This is a list of software that may be useful for CyberDecks.
 - [pokete](https://lxgr-linux.github.io/pokete/): A terminal based Pokemon like game.
 
 <!-- ++++++++++++++++++++ Gaming End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Git Start ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Git End ++++++++++++++++++++ -->
+
+## Git
+
+- [GitHub File Icons](https://github.com/homerchen19/github-file-icons): A simple browser extension changes file's icon on GitHub, GitLab, Gitea and Gogs.
+
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
 
