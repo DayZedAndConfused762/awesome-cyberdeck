@@ -19,6 +19,7 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
+https://www.reddit.com/r/meshtastic/comments/1iqwhg2/rapi_zero_as_meshtastic_client/
 https://github.com/ptitSeb/box64
 A uConsole kit, a PI CM5, external wifi antenna, USB splitter, 3D printer and a HackRF with a Portapack
 	https://www.reddit.com/r/cyberDeck/comments/1ixridv/great_pair/
@@ -120,6 +121,45 @@ Item|URL|Price
 ---|---|---
 Micro SD to Micro SD Card TF Memory Card Reader Flexible Extender | https://www.aliexpress.us/item/3256801742490754.html | $0.99
 https://github.com/alx-xlx/awesome-survival?tab=readme-ov-file
+
+https://www.reddit.com/r/meshtastic/comments/1inzkdz/can_meshtasticd_use_a_local_usb_device_like_a/
+https://meshtastic.org/docs/hardware/devices/linux-native-hardware/#hardware-compatibility
+https://store.rakwireless.com/products/rak13800-wisblock-ethernet-interface
+https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/cli-script/
+https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi
+https://shop.sb-components.co.uk/collections/hats-for-raspberry-pi/products/lora-hat-433mhz-868mhz
+https://www.youtube.com/watch?v=AFeyqgVLzYM
+https://www.reddit.com/r/meshtastic/comments/1id4okn/rpi_lora/
+https://www.reddit.com/r/meshtastic/comments/1i9feq4/linux_raspberry_pi_lora_hat_automated_setup_and/
+https://github.com/FixedBit/meshtastic_scripts
+https://www.reddit.com/r/meshtastic/comments/1i8ba9b/dc_power_backup_system_for_your_nodes_and_more/
+https://www.youtube.com/watch?v=z8LDax6TWyY&t=45s
+https://www.reddit.com/r/meshtastic/comments/1i0t5vc/ideas_for_highrise_apartmentlonger_range_also/
+https://www.reddit.com/r/meshtastic/comments/1hzc5bb/meshtastic_file_transfer_with_two_rasberry_pis/
+https://github.com/TheCommsChannel/TC2-BBS-mesh
+https://www.youtube.com/watch?v=d6LhY4HoimU
+https://www.reddit.com/r/meshtastic/comments/1hzc5bb/meshtastic_file_transfer_with_two_rasberry_pis/
+https://github.com/VeggieVampire/MeshFile
+https://www.instagram.com/reel/DErTLByRrl3/?igsh=NHJrNTRrbnU4cHZ1
+https://github.com/VeggieVampire/MeshBoard
+https://en.wikipedia.org/wiki/Sneakernet
+https://www.youtube.com/watch?v=51Vb2_brjiA
+https://www.reddit.com/r/meshtastic/comments/1iqwhg2/rapi_zero_as_meshtastic_client/
+https://www.waveshare.com/sx1262-lorawan-hat.htm
+https://github.com/chrismyers2000/MeshAdv-Pi-Hat
+https://meshtastic.org/docs/hardware/devices/linux-native-hardware/
+https://meshtastic.org/docs/hardware/devices/linux-native-hardware/#bluetooth-support
+https://www.reddit.com/r/RimWorld/comments/1cz7y55/rimworld_on_raspberry_pi_5_8gb/
+https://www.reddit.com/r/SBCGaming/comments/qnl2i4/rimworld_running_on_arm_with_box64/
+https://www.reddit.com/r/RimWorld/comments/5usqqt/rimworld_on_raspberry_pi3/
+https://www.reddit.com/r/linux_gaming/comments/17w1tm3/help_getting_steam_to_run_on_raspberry_pi_5/
+https://www.reddit.com/r/dwarffortress/comments/1d8yn6o/running_dwarf_fortress_on_a_10_raspberry_pi/
+https://www.reddit.com/r/navidrome/comments/1dab75i/navidrome_on_raspberry_pi_zero_2w/
+https://www.reddit.com/r/dwarffortress/comments/1db8dfe/playing_dwarf_fortress_with_gui_on_a_raspberry_pi/
+https://www.reddit.com/r/homelab/comments/1e5aisv/rasberry_pi_homelab/
+
+
+
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
