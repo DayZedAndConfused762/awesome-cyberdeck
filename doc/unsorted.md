@@ -157,6 +157,7 @@ https://www.reddit.com/r/dwarffortress/comments/1d8yn6o/running_dwarf_fortress_o
 https://www.reddit.com/r/navidrome/comments/1dab75i/navidrome_on_raspberry_pi_zero_2w/
 https://www.reddit.com/r/dwarffortress/comments/1db8dfe/playing_dwarf_fortress_with_gui_on_a_raspberry_pi/
 https://www.reddit.com/r/homelab/comments/1e5aisv/rasberry_pi_homelab/
+https://forums.raspberrypi.com/viewtopic.php?t=51794&start=325
 
 
 
