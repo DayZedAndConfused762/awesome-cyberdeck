@@ -445,6 +445,8 @@ https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g/videos
 https://bindle.work/?rdt_cid=5334207867861946198&utm_source=reddit_unfile
 
 
+Nuphy field75 HE
+Pelican 1430
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
