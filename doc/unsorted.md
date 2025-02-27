@@ -449,6 +449,13 @@ https://www.reddit.com/r/ATAK/comments/1iye3yt/my_waterproof_atak_meshtastic_nod
 https://www.amazon.com/TONGATE-Privacy-Protector-Protection-Military/dp/B0DG8PYZHF/ref=sr_1_13?dib=eyJ2IjoiMSJ9.uKblR4S-N9YWTbMThRWB4XZWobyMBwoH80WiviEah9Mz8RbrjFiqVbdz8kZ6hKEgR9XKR5R2B5QF61LMCNfGHv5dzhLXUTaym9Gvjo386ZSsnamJlrpmnXo_zh6roJ0IM-LdmQApP5klm5PrpFS-PFQHRWzYS48OTqjP34rUWdlevR5lCbqeRCg8LwekqIhqcT2mMRo9TReKLmpa4hbnhI20NfpL9k_KoljcGrY4lBM.Ld63aORBytXbN9JgN_vn71_lEwGNDjRcLUVTYEVaE1c&dib_tag=se&hvadid=705601794383&hvdev=c&hvlocphy=9002357&hvnetw=g&hvqmt=b&hvrand=17357176832372010812&hvtargid=kwd-2326178919553&hydadcr=14933_13541381&keywords=samsung%2Bfolding%2B5%2Bcase&mcid=c6de557ded2e3fd2931f9f2353bb1bb3&qid=1740691656&sr=8-13&th=1
 https://www.amazon.com/DEMCERT-Military-Protective-Anti-Scratch-Protector/dp/B0CFPJ2YMC/ref=sr_1_22_sspa?dib=eyJ2IjoiMSJ9.uKblR4S-N9YWTbMThRWB4XZWobyMBwoH80WiviEah9Mz8RbrjFiqVbdz8kZ6hKEgR9XKR5R2B5QF61LMCNfGHv5dzhLXUTaym9Gvjo386ZSsnamJlrpmnXo_zh6roJ0IM-LdmQApP5klm5PrpFS-PFQHRWzYS48OTqjP34rUWdlevR5lCbqeRCg8LwekqIhqcT2mMRo9TReKLmpa4hbnhI20NfpL9k_KoljcGrY4lBM.Ld63aORBytXbN9JgN_vn71_lEwGNDjRcLUVTYEVaE1c&dib_tag=se&hvadid=705601794383&hvdev=c&hvlocphy=9002357&hvnetw=g&hvqmt=b&hvrand=17357176832372010812&hvtargid=kwd-2326178919553&hydadcr=14933_13541381&keywords=samsung%2Bfolding%2B5%2Bcase&mcid=c6de557ded2e3fd2931f9f2353bb1bb3&qid=1740691656&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&th=1
 https://www.aliexpress.us/item/3256807166816380.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=60940778368&aff_fcid=3685391835624b8e8d45df4f5086edd8-1740691904416-01538-_Ev1ULTw&tt=MG&aff_fsk=_Ev1ULTw&aff_platform=default&sk=_Ev1ULTw&aff_trace_key=3685391835624b8e8d45df4f5086edd8-1740691904416-01538-_Ev1ULTw&shareId=60940778368&businessType=ProductDetail&platform=AE&terminal_id=8301157979364b17925135a2fea7c542&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt
+https://www.reddit.com/r/cyberDeck/comments/qbftv6/i_built_a_cyberdeck_case_for_my_galaxy_z_fold_3/
+https://www.reddit.com/r/cyberDeck/comments/1imhe83/looking_to_make_a_cyberdeck_with_a_folding_screen/
+https://www.reddit.com/r/cyberDeck/comments/ti461b/how_terrible_is_this_idea_finally_figured_out_the/
+https://www.reddit.com/r/cyberDeck/comments/v3k4l7/built_myself_a_mini_laptop_case_for_my_galaxy/
+https://www.reddit.com/r/cyberDeck/comments/16h96u3/plausible_hypothesis_you_can_build_a_cyberdeck/
+
+
 
 <!-- ------------------------------ Unsorted Links End ------------------------------ -->
 
