@@ -203,6 +203,21 @@ https://sharge.com/products/shargeek-140
 https://www.amazon.com/s?k=2230+ssd&hvadid=557476927188&hvdev=c&hvlocphy=9002357&hvnetw=g&hvqmt=e&hvrand=10232582990929213760&hvtargid=kwd-378259006057&hydadcr=7502_13185423&mcid=a2a0991217b930e48786d1296949e586&tag=googhydr-20&ref=pd_sl_560jp415s3_e
 https://www.reddit.com/r/prepping/comments/1irpcv0/ive_been_training_an_ai_on_thousands_of_survival/
 https://www.reddit.com/r/RTLSDR/comments/rml0xt/tactical_rtlsdr_setup_info_in_the_comments/
+https://www.reddit.com/r/RTLSDR/comments/rml0xt/tactical_rtlsdr_setup_info_in_the_comments/
+	https://thangs.com/designer/Snake0017/3d-model/RTL-SDR%20Case%20Velcro-38452
+	https://play.google.com/store/apps/details?id=marto.androsdr2&pli=1
+	https://skdtac.com/ferro-concepts-the-slickster-trade/
+	https://www.amazon.com/dp/B00GJJ6924/ref=cm_sw_r_cp_apap_YbLeEpLzN1rxv
+	https://www.spiritussystems.com/expander-wing-mk-2/
+	https://raptortactical.com/accessories-/134-raptor-tactical-plate-carrier-shoulder-pads.html
+	https://www.wtfidea.com/wtf-ferro-concepts-slickster-back-panel-64-pals-molle/
+	https://www.amazon.com/dp/B098ND96MQ/ref=cm_sw_r_cp_apa_glt_fabc_CGW2FHC46HJT7HD2804D?_encoding=UTF8&th=1
+	https://www.amazon.com/dp/B0BMKZCKTF?ref=ppx_pop_mob_ap_share&th=1
+	https://disco32.com/products/19-relocation-cable
+	https://www.amazon.com/dp/B00P0ES0VC?ref=ppx_pop_mob_ap_share&th=1
+	https://www.amazon.com/dp/B00GM0OZ4O?ref=ppx_pop_mob_ap_share
+	https://www.google.com/search?q=Harris+30-512MHz+Broadband+antenna+(eBay)&rlz=1C1GCEB_enUS994US1113&oq=Harris+30-512MHz+Broadband+antenna+(eBay)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAHSAQcyMjVqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+	
 
 
 
