@@ -73,19 +73,19 @@ This is a list of components for CyberDecks.
 ### *Adapters*
 Item|URL|Price
 ---|---|---
+3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | $5.99
 Cable Matters Combo-Pack 8K@60Hz Right Angle HDMI 2.1 Adapters | https://www.amazon.com/gp/product/B097CJLNXS/ | $7.99
-Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.96
+Poyiccot USB C Adapter 40Gbps, 3Pack 90 Degree | https://www.amazon.com/dp/B0BBTF5PYQ/ | $8.99
 QianLink Micro USB to USB C Adapter,8-Pack Micro USB to USB C Adapter | https://www.amazon.com/dp/B07PH77NCL | $5.99
 
 ### *Audio*
 Item|URL|Price
 ---|---|---
-3.5mm Angle Male to Female Audio Adapter | https://www.amazon.com/gp/product/B07YFBCQTT/ | 
 
 ### *DC*
 Item|URL|Price
 ---|---|---
-StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $5.29
+StarTech.com 3 ft USB to Type M Barrel 5V DC | https://www.amazon.com/gp/product/B003MQO96U/ | $4.59
 USB to Barrel Cable USB to 5.5mm/2.1mm Angled 5V DC Power Cable | https://www.amazon.com/gp/product/B07512GMDX/ | $7.00
 USB to DC 5V Power Cable, DC 5.5x2.1mm Plugs Charging Cord with 11 Interchangeable Jack Connectors | https://www.amazon.com/dp/B0CD7MHTZ7/ | $9.99
 

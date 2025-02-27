@@ -16,9 +16,9 @@ This is a list of guides and helpful information.
 
 - [AI](#AI)
 - [Coding](#Coding)
+  - [Bash](#Bash)
   - [Markdown](#Markdown)
   - [Python](#Python)
-  - [Bash](#Bash)
 - [Communications](#Communications)
   - [ATAK](#ATAK)
   - [IRC](#IRC)
@@ -46,9 +46,9 @@ This is a list of guides and helpful information.
 - [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/?rdt=50633)
 - [How to Run a Large Language Model on Your Raspberry Pi](https://www.reddit.com/r/raspberry_pi/comments/11xnsu3/how_to_run_a_large_language_model_on_your/?rdt=52395)
 - [How to run a Large Language Model (LLM) on a Raspberry Pi 4](https://www.reddit.com/r/raspberry_pi/comments/1ati2ki/how_to_run_a_large_language_model_llm_on_a/?rdt=64733)
-- [https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/]()
-- [https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/]()
-- [https://itsfoss.com/llms-for-raspberry-pi/]()
+- [What’s the best local LLM for a raspberry pi 5 8gb ram?](https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/)
+- [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/)
+- [I Ran 9 Popular LLMs on Raspberry Pi 5; Here's What I Found](https://itsfoss.com/llms-for-raspberry-pi/)
 
 <!-- ------------------------------ AI End ------------------------------ -->
 
@@ -56,8 +56,12 @@ This is a list of guides and helpful information.
 
 ## Coding:
 
-- [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
 - [Awesome GitHub Lists](https://github.com/phillipadsmith/awesome-github#readme)
+- [RPi/Coding tutorials](https://www.youtube.com/@mmshilleh): 
+
+### *Bash*
+
+- [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
 
 ### *Markdown*
 
@@ -73,14 +77,8 @@ This is a list of guides and helpful information.
 - [Learning Python](https://pimylifeup.com/category/coding/python/): 
 - [r/learnpython](https://www.reddit.com/r/learnpython/): 
 
-### *Bash*
-
-- [Write Your Own Bash Scripts to Automate Tasks on Linux](https://null-byte.wonderhowto.com/how-to/write-your-own-bash-scripts-automate-tasks-linux-0296284/): 
-
-
 <!-- ------------------------------ Coding End ------------------------------ -->
 
-<!-- ------------------------------ Coding End ------------------------------ -->
 
 <!-- ------------------------------ Communications Start ------------------------------ -->
 
