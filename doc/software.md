@@ -16,20 +16,20 @@ This is a list of software that may be useful for CyberDecks.
 
 - [Lists](#Lists)
 - [Communications](#Communications)
+  - [FM Radio Transmitting](#FM-Radio-Transmitting)
+  - [Meshtastic](#Meshtastic)
+  - [Networking](#Networking)
+  - [SDR](#SDR)
 - [CyberSecurity](#CyberSecurity)
 - [Data Management](#Data-Management)
-- [FM Radio Transmitting](#FM-Radio-Transmitting)
 - [Fonts](#Fonts)
 - [Gaming](#Gaming)
 - [Git & Github](#Git)
 - [GPS and Mapping](#GPS-and-Mapping)
 - [Hardware Utilities](#Hardware-Utilities)
 - [Media](#Media)
-- [Meshtastic](#Meshtastic)
-- [Networking](#Networking)
 - [Offline_Internet](#Offline-Internet)
 - [Raspberry Pi General](#Raspberry-Pi-General)
-- [SDR](#SDR)
 - [Utilities](#Utilities)
 - [Weather](#Weather)
 
@@ -57,6 +57,47 @@ This is a list of software that may be useful for CyberDecks.
 
 - [Android Team Awareness Kit or ATAK / CivTAK](https://www.civtak.org/atak-about/): The Android Team Awareness Kit (ATAK), for civilian use, or Android Tactical Assault Kit (also ATAK) for military use - is a suite of software that provides geospatial information and allows user collaboration over geography.
 - [WeeChat](https://github.com/weechat/weechat): (Wee Enhanced Environment for Chat) is a free chat client, fast and light, designed for many operating systems.
+
+<!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
+
+### FM Radio Transmitting:
+
+- [PiFM](https://github.com/rm-hull/pifm?tab=readme-ov-file): Turning the Raspberry Pi Into an FM Transmitter.
+- [PiFmAdv](https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
+  - [PiFM GTK](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
+
+<!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
+
+## Meshtastic:
+
+- [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information.
+- [eMesh - A human-usable fast and universal GUI for Meshtastic nodes](https://github.com/thecookingsenpai/emesh)
+- [A Python client for use with Meshtastic devices.](https://github.com/meshtastic/python)
+- [Web based flasher for Meshtastic devices](https://flasher.meshtastic.org/)
+
+<!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
+
+## Networking:
+
+- [mRemoteNG](https://mremoteng.org/download): Multi-Remote Next Generation Connection Manager.
+- [PiHole](https://pi-hole.net/): Network-wide Ad Blocking.
+- [PiVPN](https://www.pivpn.io/): The simplest way to setup and manage a VPN, designed for Raspberry Pi.
+
+<!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
+
+<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
+
+## SDR:
+
+- [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio.
+- [Gqrx SDR](https://www.gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi): Open source software defined radio by Alexandru Csete OZ9AEC.
+- 
+
+<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Communications End ++++++++++++++++++++ -->
 
@@ -86,15 +127,7 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Data End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ FM Start ++++++++++++++++++++ -->
 
-## FM Radio Transmitting:
-
-- [PiFM](https://github.com/rm-hull/pifm?tab=readme-ov-file): Turning the Raspberry Pi Into an FM Transmitter.
-- [PiFmAdv](https://github.com/miegl/PiFmAdv): This program generates an FM modulation, with RDS (Radio Data System) data generated in real time. It can include monophonic or stereophonic audio.
-  - [PiFM GTK](https://github.com/MundeepL/PiFM): PiFM GTK is an extension to the already popular PiFmAdv repository developd by Miegl. This extension features a small number of additional files that greatly assist the procedure to install and set up the software.
-
-<!-- ++++++++++++++++++++ FM End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Fonts Start ++++++++++++++++++++ -->
 
@@ -162,26 +195,7 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ Media End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ Meshtastic Start ++++++++++++++++++++ -->
 
-## Meshtastic:
-
-- [Android Application Usage](https://meshtastic.org/docs/software/android/usage/): Meshtastic Android App Information.
-- [eMesh - A human-usable fast and universal GUI for Meshtastic nodes](https://github.com/thecookingsenpai/emesh)
-- [A Python client for use with Meshtastic devices.](https://github.com/meshtastic/python)
-- [Web based flasher for Meshtastic devices](https://flasher.meshtastic.org/)
-
-<!-- ++++++++++++++++++++ Meshtastic End ++++++++++++++++++++ -->
-
-<!-- ++++++++++++++++++++ Networking Start ++++++++++++++++++++ -->
-
-## Networking:
-
-- [mRemoteNG](https://mremoteng.org/download): Multi-Remote Next Generation Connection Manager.
-- [PiHole](https://pi-hole.net/): Network-wide Ad Blocking.
-- [PiVPN](https://www.pivpn.io/): The simplest way to setup and manage a VPN, designed for Raspberry Pi.
-
-<!-- ++++++++++++++++++++ Networking End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Offline Internet Start ++++++++++++++++++++ -->
 
@@ -209,15 +223,7 @@ This is a list of software that may be useful for CyberDecks.
 
 <!-- ++++++++++++++++++++ RPi General End ++++++++++++++++++++ -->
 
-<!-- ++++++++++++++++++++ SDR Start ++++++++++++++++++++ -->
 
-## SDR:
-
-- [SDRangel](https://www.sdrangel.org/): TX & RX Software Defined Radio.
-- [Gqrx SDR](https://www.gqrx.dk/download/gqrx-sdr-for-the-raspberry-pi): Open source software defined radio by Alexandru Csete OZ9AEC.
-- 
-
-<!-- ++++++++++++++++++++ SDR End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ Utilities Start ++++++++++++++++++++ -->
 
