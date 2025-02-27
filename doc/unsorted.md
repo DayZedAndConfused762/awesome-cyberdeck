@@ -454,6 +454,7 @@ https://www.reddit.com/r/cyberDeck/comments/1imhe83/looking_to_make_a_cyberdeck_
 https://www.reddit.com/r/cyberDeck/comments/ti461b/how_terrible_is_this_idea_finally_figured_out_the/
 https://www.reddit.com/r/cyberDeck/comments/v3k4l7/built_myself_a_mini_laptop_case_for_my_galaxy/
 https://www.reddit.com/r/cyberDeck/comments/16h96u3/plausible_hypothesis_you_can_build_a_cyberdeck/
+https://github.com/joshuafuller/ATAK-Maps?tab=readme-ov-file
 
 
 
