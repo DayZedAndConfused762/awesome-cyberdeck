@@ -49,6 +49,7 @@ This is a list of guides and helpful information.
 - [What’s the best local LLM for a raspberry pi 5 8gb ram?](https://www.reddit.com/r/LocalLLM/comments/1hlw4ke/whats_the_best_local_llm_for_a_raspberry_pi_5_8gb/)
 - [I Ran Advanced LLMs on the Raspberry Pi 5!](https://www.reddit.com/r/OpenAI/comments/19198xi/i_ran_advanced_llms_on_the_raspberry_pi_5/)
 - [I Ran 9 Popular LLMs on Raspberry Pi 5; Here's What I Found](https://itsfoss.com/llms-for-raspberry-pi/)
+- [I used AI to build a video game in one prompt (Grok 3 + Claude 3.7)](https://www.youtube.com/watch?v=51Vb2_brjiA)
 
 <!-- ------------------------------ AI End ------------------------------ -->
 

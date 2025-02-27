@@ -19,6 +19,7 @@ This is a unsorted dump list of links and info
 
 ## Unsorted Links
 
+https://github.com/ptitSeb/box64
 A uConsole kit, a PI CM5, external wifi antenna, USB splitter, 3D printer and a HackRF with a Portapack
 	https://www.reddit.com/r/cyberDeck/comments/1ixridv/great_pair/
 	https://www.reddit.com/r/cyberDeck/comments/1ixre5n/they_make_a_good_pair/
@@ -27,14 +28,10 @@ https://www.youtube.com/watch?v=rnwPmoWMGqk
 https://github.com/GitSquared/edex-ui
 http://inx.maincontent.net/
 https://www.reddit.com/r/cyberDeck/comments/1ixmepp/just_a_little_peak_of_what_my_cyberdeck_looks_like/
-
-
-https://www.reddit.com/r/cyberDeck/comments/1ixmepp/just_a_little_peak_of_what_my_cyberdeck_looks_like/?share_id=kPz0fGkI5tNAv4oI2ngSH&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
 https://learn.adafruit.com/lora-and-lorawan-radio-for-raspberry-pi/overview
 https://thepihut.com/products/lora-expansion-board-for-raspberry-pi-zero
 https://www.pishop.us/product-category/wireless/lora/
 https://github.com/tamberg/pi-lora
-https://www.reddit.com/r/cyberDeck/comments/1ixmepp/just_a_little_peak_of_what_my_cyberdeck_looks_like/?share_id=kPz0fGkI5tNAv4oI2ngSH&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
 https://www.reddit.com/r/cyberDeck/comments/1iysmd8/new_to_this_subject_anything_to_tell_me/
 https://www.mobile-hacker.com/2025/02/26/building-a-portable-kali-box-with-raspberry-pi-and-touchscreen/#google_vignette
 https://github.com/ElNiak/awesome-ai-cybersecurity
