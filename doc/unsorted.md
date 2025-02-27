@@ -201,6 +201,8 @@ https://www.amazon.com/BAOFENG-UV-5R-Rechargeable-Extended-Handheld/dp/B0CWWZ5YT
 https://internet-in-a-box.org/
 https://sharge.com/products/shargeek-140
 https://www.amazon.com/s?k=2230+ssd&hvadid=557476927188&hvdev=c&hvlocphy=9002357&hvnetw=g&hvqmt=e&hvrand=10232582990929213760&hvtargid=kwd-378259006057&hydadcr=7502_13185423&mcid=a2a0991217b930e48786d1296949e586&tag=googhydr-20&ref=pd_sl_560jp415s3_e
+https://www.reddit.com/r/prepping/comments/1irpcv0/ive_been_training_an_ai_on_thousands_of_survival/
+https://www.reddit.com/r/RTLSDR/comments/rml0xt/tactical_rtlsdr_setup_info_in_the_comments/
 
 
 
