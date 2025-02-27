@@ -438,7 +438,11 @@ https://www.reddit.com/r/RTLSDR/comments/rml0xt/tactical_rtlsdr_setup_info_in_th
 	https://www.amazon.com/dp/B00P0ES0VC?ref=ppx_pop_mob_ap_share&th=1
 	https://www.amazon.com/dp/B00GM0OZ4O?ref=ppx_pop_mob_ap_share
 	https://www.google.com/search?q=Harris+30-512MHz+Broadband+antenna+(eBay)&rlz=1C1GCEB_enUS994US1113&oq=Harris+30-512MHz+Broadband+antenna+(eBay)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAHSAQcyMjVqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
-
+https://github.com/ptitSeb/box86
+https://twisteros.com/
+https://discord.com/invite/Fh8sjmu
+https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g/videos
+https://bindle.work/?rdt_cid=5334207867861946198&utm_source=reddit_unfile
 
 
 
