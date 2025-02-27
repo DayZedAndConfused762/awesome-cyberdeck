@@ -192,7 +192,6 @@ ZITAO HackBerryPi - Digital CyberPunk STL | https://carboncomputers.us/products/
 ## Communication:
 
 ### Antennas:
-
 Item|URL|Price
 ---|---|---
 16dBi WiFi Directional Antenna | https://carboncomputers.us/products/16dbi-wifi-directional-antenna | $55.00
@@ -201,7 +200,6 @@ Rabbit-Labs 4dBm 868MHz 900MHz 915MHz Antenna SMA Male | https://www.amazon.com/
 USB GPS Receiver Antenna | https://carboncomputers.us/products/usb-gps-receiver-antenna | $39.00
 
 ### Lora
-
 Item|URL|Price
 ---|---|---
 915 ESP32 LoRa OLED Board V3 |  https://www.amazon.com/dp/B086ZFCV7F/ | $
@@ -220,7 +218,6 @@ RTL-SDR (DVB-T), (DAB), and FM tuner | https://hackerwarehouse.com/product/rtlsd
 Software Defined Radio (Dongle Only) | https://www.amazon.com/gp/product/B0BMKZCKTF/ | $
 
 ### Wifi
-
 Item|URL|Price
 ---|---|---
 ALFA USB Wi-Fi Dongle AC600M Dual Band 2.4G/5.8Ghz | https://carboncomputers.us/products/alfa-usb-wi-fi-dongle-ac600m | $39.00
@@ -306,7 +303,6 @@ PineTime SmartWatch (sealed) | https://pine64.com/product/pinetime-smartwatch-se
 Pirate Audio: Speaker for Raspberry Pi - Built-in 1W Speaker | https://www.adafruit.com/product/4451 | $24.95
 Pirate Audio: 3W Stereo Speaker Amp for Raspberry Pi | https://www.adafruit.com/product/4453 | $24.95
 RetroPrompt: Miniature CRT Monitor MS-DOS Prompt | https://www.tindie.com/products/questwise-ventures/retroprompt-miniature-crt-monitor-ms-dos-prompt/ | $14.80
-
 SOYES XS11 3G Mini Smartphone 2.5Inch | https://www.amazon.com/dp/B08KT1VBZG/?th=1 | 
 PineTime SmartWatch (Sealed) | https://pine64.com/product/pinetime-smartwatch-sealed/ | $26.99
 PineTime SmartWatch Dev Kit | https://pine64.com/product/pinetime-dev-kit/ | $26.99
@@ -315,6 +311,7 @@ CircuitMess Chatter - DIY Encrypted Wireless Communicator | https://www.amazon.c
 <!-- ++++++++++++++++++++ Gadgets End ++++++++++++++++++++ -->
 
 <!-- ++++++++++++++++++++ GPS Start ++++++++++++++++++++ -->
+
 ## GPS
 
 Item|URL|Price
@@ -490,7 +487,6 @@ Trozk Portable Charger, PD30W | https://www.amazon.com/dp/B0CJ2J2YDS | $
 18650 3.7V 6600mAh 1S3P Rechargeable Li-ion Battery Pack, JST-PH2.0 2-pin Connector | https://www.amazon.com/gp/product/B0CPQTV1DN/ | $22.99
 
 ### *Battery Chargers*
-
 Item|URL|Price
 ---|---|---
 Renogy 12V 20A AC-to-DC Portable Battery Charger Plug-and-Play with 12AWG Alligator Clips for Lithium-iron Phosphate Batteries  | https://www.amazon.com/Renogy-12V-20A-Alligator-Batteries/dp/B08C2JN76Q | $113.54
@@ -502,7 +498,6 @@ Geekworm 19MM Metal Push Button Switch | https://www.amazon.com/dp/B086LFGDJF | 
 Ulincos® Latching Push Button Switch | https://www.amazon.com/gp/product/B08DR1475W/ | $8.89
 
 ### *Inverters*
-
 Item|URL|Price
 ---|---|---
 BMK 200W Car Power Inverter | https://www.amazon.com/gp/product/B079HPZ9JY/ | $19.99
@@ -538,7 +533,6 @@ Uninterruptible Power Supply Module, Supports charging And Power output at the s
 ## *Prebuilt Decks*
 
 ### *Blackberry*
-
 Item|URL|Price
 ---|---|---
 CyberDeck PiBerry 1.7 - Raspberry Pi Zero Handheld | https://carboncomputers.us/products/cyberdeck-piberry-17-raspberry-pi-zero | $19.00 & up
@@ -549,19 +543,16 @@ PiBerry 10.0 - Pi Zero 2W Handheld | https://carboncomputers.us/products/piberry
 PiBerry 12.0 - Pi Zero 2W Handheld | https://carboncomputers.us/products/piberry-12-0-pi-zero-2w-handheld | $59.00 & Up
 
 ### *Console*
-
 Item|URL|Price
 ---|---|---
 Cyber uConsole - Dual Boot Kali & Pi OS – Arch | https://carboncomputers.us/products/cyber-uconsole-dual-boot-kali | $399.00 & Up
 
 ### *Desktop*
-
 Item|URL|Price
 ---|---|---
 Pi CyberDeck 400 with Kali | https://carboncomputers.us/products/pi-cyberdeck-400-with-kali | $178.00
 
 ### *Laptop*
-
 Item|URL|Price
 ---|---|---
 Cyber Book X Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers.us/products/cyber-book-x | $549.00
@@ -574,7 +565,6 @@ XPS Cyber Laptop with Win + Dual Boot Kali & BlackArch | https://carboncomputers
 
 
 ### *Tablet*
-
 Item|URL|Price
 ---|---|---
 Cyberdeck Rugged Surface Pro with Dual Boot Kali & BlackArch | https://carboncomputers.us/products/cyberdeck-rugged-surface-pro-with-dual-41228 | $449.00
