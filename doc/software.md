@@ -174,7 +174,8 @@ This is a list of software that may be useful for CyberDecks.
 ## Hardware Utilities:
 
 - [Waveshare 10.1inch HDMI LCD (B) (with case)](https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)_(with_case)): Software for the Waveshare 10.1inch LCD (B) display.
-- [Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
+https://wiki.geekworm.com/X728-script
+  - [OUTDATED-Geekworm x728 Software](https://wiki.geekworm.com/X728-Software): Software for the Geekworm x728 UPS.
 - [Geekworm x728 Repository](https://github.com/geekworm-com/x728): GitHub repository for the Geekworm x728 UPS.
 - [Cyberdeck Battery Indicator](https://github.com/arbowl/cyberdeck-battery-indicator): A GUI battery indicator for Raspberry Pi and x728 UPS
 - [PiSugar Power Manager](https://github.com/PiSugar/PiSugar/wiki/PiSugar-Power-Manager-(Software)): PiSugar Power Manager is a software created for PiSugar 2/3 serises.
